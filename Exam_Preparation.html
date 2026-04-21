@@ -1,0 +1,203 @@
+using System;
+using System.Collections.Generic;
+using System.Drawing;
+using System.Windows.Forms;
+using System.IO;
+using Newtonsoft.Json;
+using System.Linq; // Απαραίτητο για το OrderBy
+
+namespace Exam_Preparation
+{
+    public partial class UI_Creation : Form
+    {
+        private string examFolderPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Exams");
+
+        private TableLayoutPanel mainGrid;
+        private FlowLayoutPanel leftMenu;
+        private Label lblScore;
+        private SplitContainer splitContainer;
+        private int correctAnswers = 0;
+        private int totalAnswered = 0;
+
+        private Font mainFont = new Font("Times New Roman", 12);
+        private Font boldFont = new Font("Times New Roman", 12, FontStyle.Bold);
+        private Font titleFont = new Font("Times New Roman", 14, FontStyle.Bold);
+
+        public UI_Creation()
+        {
+            this.Text = "PMP Mock Exam Dashboard";
+            this.WindowState = FormWindowState.Maximized;
+            this.MinimumSize = new Size(1000, 700);
+
+            splitContainer = new SplitContainer
+            {
+                Dock = DockStyle.Fill,
+                FixedPanel = FixedPanel.Panel1,
+                SplitterWidth = 5
+            };
+            this.Controls.Add(splitContainer);
+
+            leftMenu = new FlowLayoutPanel { Dock = DockStyle.Fill, BackColor = Color.FromArgb(44, 62, 80), FlowDirection = FlowDirection.TopDown, AutoScroll = true, Padding = new Padding(10) };
+            splitContainer.Panel1.Controls.Add(leftMenu);
+
+            lblScore = new Label { Text = "Score: 0 / 0", ForeColor = Color.White, Font = titleFont, AutoSize = true, Margin = new Padding(0, 0, 0, 20) };
+            leftMenu.Controls.Add(lblScore);
+
+            mainGrid = new TableLayoutPanel { Dock = DockStyle.Fill, AutoScroll = true, ColumnCount = 2 };
+            mainGrid.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 70));
+            mainGrid.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 30));
+            splitContainer.Panel2.Controls.Add(mainGrid);
+
+            SetupMenu();
+            ShowWelcomeMessage(); // Εμφάνιση μηνύματος κατά την εκκίνηση
+        }
+
+        private void ShowWelcomeMessage()
+        {
+            mainGrid.Controls.Clear();
+            Label lblWelcome = new Label
+            {
+                Text = "Choose the exam your right, Stay Calm & Good Luck!!",
+                Font = new Font("Times New Roman", 20, FontStyle.Bold),
+                AutoSize = true,
+                TextAlign = ContentAlignment.MiddleCenter,
+                Anchor = AnchorStyles.None
+            };
+            mainGrid.Controls.Add(lblWelcome, 0, 0);
+            mainGrid.SetColumnSpan(lblWelcome, 2); // Το κεντράρουμε και στις δύο στήλες
+        }
+
+        protected override void OnShown(EventArgs e)
+        {
+            base.OnShown(e);
+            this.BeginInvoke(new Action(() => {
+                splitContainer.SplitterDistance = 300;
+            }));
+        }
+
+        private void SetupMenu()
+        {
+            if (!Directory.Exists(examFolderPath)) return;
+
+            var files = Directory.GetFiles(examFolderPath, "*.json")
+                .OrderBy(file => {
+                    string fileName = Path.GetFileNameWithoutExtension(file);
+                    string numberPart = fileName.Replace("Mock_Exam_", "");
+                    if (int.TryParse(numberPart, out int num)) return num;
+                    return 0; 
+                });
+
+            foreach (string file in files)
+            {
+                string fileName = Path.GetFileNameWithoutExtension(file);
+                Button btn = new Button
+                {
+                    Text = fileName,
+                    Size = new Size(260, 40),
+                    Tag = file,
+                    BackColor = Color.FromArgb(52, 73, 94),
+                    ForeColor = Color.White,
+                    Font = boldFont
+                };
+                btn.Click += (s, e) => LoadExamContent((string)((Button)s).Tag);
+                leftMenu.Controls.Add(btn);
+            }
+        }
+
+        private void LoadExamContent(string filePath)
+        {
+            correctAnswers = 0;
+            totalAnswered = 0;
+            UpdateScoreDisplay();
+
+            mainGrid.SuspendLayout();
+            mainGrid.Controls.Clear();
+            mainGrid.RowCount = 0;
+
+            if (!File.Exists(filePath)) return;
+            string jsonString = File.ReadAllText(filePath);
+
+            var root = JsonConvert.DeserializeObject<Root>(jsonString);
+
+            if (root == null || root.Questions == null) return;
+
+            int questionCounter = 1;
+            foreach (var q in root.Questions)
+            {
+                int row = mainGrid.RowCount++;
+                mainGrid.RowStyles.Add(new RowStyle(SizeType.AutoSize));
+
+                GroupBox gb = new GroupBox { Text = $"Question {questionCounter}", Margin = new Padding(20), Font = boldFont, Dock = DockStyle.Top };
+                Label lblQ = new Label { Text = q.Text, AutoSize = true, MaximumSize = new Size(670, 0), Location = new Point(15, 30), Font = mainFont };
+                gb.Controls.Add(lblQ);
+
+                int currentY = lblQ.Bottom + 20;
+                if (q.Options != null)
+                {
+                    for (int i = 0; i < q.Options.Length; i++)
+                    {
+                        char label = (char)('A' + i);
+                        RadioButton rb = new RadioButton { Text = $"{label}. {q.Options[i]}", Location = new Point(20, currentY), AutoSize = true, Tag = i, Font = mainFont };
+                        gb.Controls.Add(rb);
+                        currentY += 40;
+                    }
+                }
+
+                Panel resultBox = new Panel { Dock = DockStyle.Fill, BorderStyle = BorderStyle.FixedSingle, Margin = new Padding(20), BackColor = Color.WhiteSmoke, AutoScroll = true };
+                Label lblResult = new Label { Text = "Answer and click Check", Dock = DockStyle.Top, TextAlign = ContentAlignment.MiddleCenter, Height = 40, Font = boldFont };
+                Label lblExpl = new Label { Text = "", Dock = DockStyle.Top, AutoSize = true, MaximumSize = new Size(300, 0), Font = mainFont, Padding = new Padding(5) };
+                resultBox.Controls.Add(lblExpl);
+                resultBox.Controls.Add(lblResult);
+
+                Button btnCheck = new Button { Text = "Check", Location = new Point(20, currentY + 10), Tag = q, Size = new Size(100, 40), Font = boldFont };
+
+                btnCheck.Click += (s, ev) => {
+                    int selected = -1;
+                    foreach (Control ctrl in gb.Controls) if (ctrl is RadioButton rb && rb.Checked) selected = (int)rb.Tag;
+                    if (selected == -1) { MessageBox.Show("Please select an answer first!"); return; }
+
+                    btnCheck.Enabled = false;
+                    foreach (Control ctrl in gb.Controls) if (ctrl is RadioButton) ctrl.Enabled = false;
+
+                    int correctIndex = ((Question)((Button)s).Tag).CorrectIndex;
+                    foreach (Control ctrl in gb.Controls)
+                    {
+                        if (ctrl is RadioButton rb && (int)rb.Tag == correctIndex)
+                        {
+                            rb.Text += " ✓"; 
+                            rb.Font = new Font(rb.Font, FontStyle.Bold); 
+                            rb.ForeColor = Color.DarkGreen; 
+                        }
+                    }
+
+                    totalAnswered++;
+                    bool isCorrect = (selected == correctIndex);
+                    if (isCorrect) correctAnswers++;
+                    UpdateScoreDisplay();
+                    resultBox.BackColor = isCorrect ? Color.LightGreen : Color.Salmon;
+                    lblResult.Text = isCorrect ? "Correct!" : "Wrong!";
+                    lblExpl.Text = "Explanation:\n" + ((Question)((Button)s).Tag).Explanation;
+                };
+
+                gb.Controls.Add(btnCheck);
+                gb.Height = btnCheck.Bottom + 20;
+                mainGrid.Controls.Add(gb, 0, row);
+                mainGrid.Controls.Add(resultBox, 1, row);
+                questionCounter++;
+            }
+            mainGrid.ResumeLayout();
+        }
+
+        private void UpdateScoreDisplay() => lblScore.Text = $"Score: {correctAnswers} / {totalAnswered}";
+    }
+
+    public class Root { public List<Question> Questions { get; set; } }
+
+    public class Question
+    {
+        public string Text { get; set; }
+        public string[] Options { get; set; }
+        public int CorrectIndex { get; set; }
+        public string Explanation { get; set; }
+    }
+}
