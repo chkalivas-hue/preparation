@@ -1,0 +1,304 @@
+{
+  "Questions": [
+    {
+      "Text": "An organization’s value chain can be represented by a special type of flowchart called SIPOC. SIPOC stands for:",
+      "Options": [ "Superior service, inferior service, peak hour service, optimized service, and client service", "Simple, intellectual, procedural, optimal coding", "Sample, information, practice, organization, and control", "Suppliers, inputs, process, outputs, and customers" ],
+      "CorrectIndex": 3,
+      "Explanation": "SIPOC stands for Suppliers, inputs, process, outputs, and customers. [PMBOK 6th edition, Page 284]"
+    },
+    {
+      "Text": "Julia is managing a water treatment plant construction project. A new government has recently been sworn in. During the election campaign, the winning candidate made a number of commitments regarding environmental control reforms. Julia is not sure how the new government and its future policies might affect her project. This is an example of:",
+      "Options": [ "Variability risk", "Mitigated risk", "Ambiguity risk", "Opportunity risk" ],
+      "CorrectIndex": 2,
+      "Explanation": "Ambiguity risks relate to areas of the project where imperfect knowledge might affect the project’s ability to achieve its objectives. [PMBOK 6th edition, Page 398]"
+    },
+    {
+      "Text": "As a project manager, you are responsible for determining and delivering the required levels of both grade and quality. Select which of the following statements you disagree with.",
+      "Options": [ "Grade relates to the product's characteristics.", "Grade relates to the customer requirements.", "Quality relates to the customer requirements.", "Quality and grade of a product must be carefully managed." ],
+      "CorrectIndex": 1,
+      "Explanation": "The grade of a product relates to the technical characteristics of the product. [PMBOK 6th edition, Page 274]"
+    },
+    {
+      "Text": "Which of the following processes produces a work breakdown structure as an output?",
+      "Options": [ "Create WBS", "Define Scope", "Develop Project Management Plan", "Define Activities" ],
+      "CorrectIndex": 0,
+      "Explanation": "The Create WBS process produces the work breakdown structure of the project as an output. [PMBOK 6th edition, Page 161]"
+    },
+    {
+      "Text": "How can a project manager ensure continued active support of the project supporters and at the same time minimize negative impacts from the negative stakeholders?",
+      "Options": [ "By ensuring that stakeholders clearly understand the communication management plan", "By ensuring that stakeholders clearly understand the stakeholder management strategy", "By ensuring that stakeholders are kept disengaged throughout the project lifecycle", "By ensuring that stakeholders clearly understand project goals, objectives, benefits, and risks" ],
+      "CorrectIndex": 3,
+      "Explanation": "Managing stakeholder engagement helps to increase the probability of project success by ensuring that stakeholders clearly understand the project goals, objectives, benefits, and risks. [PMBOK 6th edition, Page 524]"
+    },
+    {
+      "Text": "Most project management software packages use a method of constructing a project schedule network diagram known as:",
+      "Options": [ "Waterfall Method", "Precedence Diagramming Method", "Agile Method", "Just-in-time Method" ],
+      "CorrectIndex": 1,
+      "Explanation": "PDM uses Nodes to represent Activities and connects the activities with Arrows to show dependencies. [PMBOK 6th edition, Page 189]"
+    },
+    {
+      "Text": "The fundamental lesson from the Theory of Constraints by Goldratt is:",
+      "Options": [ "The project’s critical path is limited by the non-critical activities.", "Managers who choose to lead from the front are more successful.", "A system's throughput is limited by at least one constraint.", "Managers who delegate more are more successful." ],
+      "CorrectIndex": 2,
+      "Explanation": "According to the theory of constraints, a system's throughput is limited by at least one constraint. [PMBOK 6th edition, Page 310]"
+    },
+    {
+      "Text": "Martin is the project manager of a project that is in an early phase. He needs to estimate costs but finds that he has a limited amount of detailed information about the project. Which of the following estimation techniques is least suited to his requirements?",
+      "Options": [ "Top-down Estimating", "Bottom-up Estimating", "Analogous Estimating", "Budgetary Estimating" ],
+      "CorrectIndex": 1,
+      "Explanation": "Bottom-up estimating is a technique that can be applied only when there is a sufficient amount of detail available to the project manager. [PMBOK 6th edition, Page 244]"
+    },
+    {
+      "Text": "The performance reports produced during the Control Procurements process are then provided to which project management process for further processing?",
+      "Options": [ "Monitor & Control Project Work in the form of work performance information", "Direct & Manage Project Work in the form of work performance data", "Perform Integrated Change Control in the form of a change request", "Performance report is not an output of the Control Procurement process" ],
+      "CorrectIndex": 0,
+      "Explanation": "Although, PMBOK does not explicitly mentions performance reports as an output of the Control Procurements process, these reports are produced during this process. The performance reports are then provided to the Monitor & Control Project Work in the form of work performance information. [PMBOK 6th edition, Page 493]"
+    },
+    {
+      "Text": "To develop a project stakeholder engagement plan, seek knowledge from groups or individuals with specialized training or subject matter insight into the relationships within the organization. In PMBOK jargon, what is this technique called?",
+      "Options": [ "Professional verdict", "Consultation", "Expert judgment", "Sage opinion" ],
+      "CorrectIndex": 2,
+      "Explanation": "The technique can be called anything but according to the PMBOK jargon, this technique is called Expert Judgement. [PMBOK 6th edition, Page 520]"
+    },
+    {
+      "Text": "Three years back, your organization awarded a fixed price contract to a reputable local contractor to construct a new airport terminal in the city. A few days back, you received a change request from the contractor requesting to adjust the contract’s price. The contractor is claiming that as a result of the recent national recession, the prices of raw materials have gone up and he cannot complete the rest of the project at the contract price. Is the contactor’s request legitimate?",
+      "Options": [ "Yes, you cannot penalize the contactor for price escalations due to force majeure.", "Yes, unless there is no Economic Price Adjustment provision in the contract.", "No, the price of the contract is fixed and cannot be changed.", "No, the price hike due to recession must be adjusted against the contractor’s profit." ],
+      "CorrectIndex": 1,
+      "Explanation": "Unless there is no provision for economic price adjustment due to inflation, a fixed price contract’s value cannot be changed. [PMBOK 6th edition, Page 471]"
+    },
+    {
+      "Text": "Which of the following is an agile prototyping technique showing sequence or navigation through a series of images or illustrations:",
+      "Options": [ "Nominal group technique", "Mind mapping", "Decision trees", "Storyboarding" ],
+      "CorrectIndex": 3,
+      "Explanation": "Storyboarding is an agile prototyping technique that shows sequence or navigation through a series of images or illustrations. [PMBOK 6th edition, Page 147]"
+    },
+    {
+      "Text": "Which of the following statements is correct:",
+      "Options": [ "Project lifecycles and product lifecycles are interdependent.", "Project lifecycles are independent of product lifecycles.", "A product lifecycle is the same as a project lifecycle.", "The last lifecycle for a project is generally the product's retirement." ],
+      "CorrectIndex": 1,
+      "Explanation": "Project life cycles are independent of product life cycles, which may be produced by a project. [PMBOK 6th edition, Page 19]"
+    },
+    {
+      "Text": "Unless an enterprise-wide ERP is deployed in an organization, disparate IT systems perform specialized tasks in a project. Which of the following systems typically processes supplier’s payments after obtaining all the necessary certification of satisfactory work?",
+      "Options": [ "Project management information system", "Accounts payable system", "Change control and tracking system", "Supply chain management system" ],
+      "CorrectIndex": 1,
+      "Explanation": "Payments to the seller are typically processed by the accounts payable system of the buyer after certification of satisfactory work by an authorized person on the project team. [PMBOK 6th edition, Page 497]"
+    },
+    {
+      "Text": "It is extremely important for a project manager to determine and map key stakeholder engagement levels early in the project. Which of the following statements support this claim:",
+      "Options": [ "Stakeholder engagement levels change during the lifecycle of the project", "Stakeholder engagement throughout the lifecycle of the project is critical to project success", "Leading stakeholders assume a supportive role during project execution", "Development of the stakeholder assessment matrix is a mandatory PMBOK requirement" ],
+      "CorrectIndex": 1,
+      "Explanation": "The stakeholder engagement throughout the life cycle of the project is critical to project success. [PMBOK 6th edition, Page 551]"
+    },
+    {
+      "Text": "A management control point where scope, budget and schedule are integrated and compared to earned value for performance measurement is a:",
+      "Options": [ "Code of accounts", "Control packages", "Control account", "Account Plan" ],
+      "CorrectIndex": 2,
+      "Explanation": "This is a control account. Control accounts are placed at selected management points of the Work Breakdown Structure (WBS). [PMBOK 6th edition, Page 161]"
+    },
+    {
+      "Text": "Which of the following is an example of a chart, used on agile projects, that tracks the work that remains to be completed in the iteration backlog?",
+      "Options": [ "Histogram", "Control chart", "Burndown chart", "Scatter diagrams" ],
+      "CorrectIndex": 2,
+      "Explanation": "An iteration burndown chart tracks the work that remains to be completed in the iteration backlog. [PMBOK 6th edition, Page 226]"
+    },
+    {
+      "Text": "Which of the following best describes the Validate Scope process?",
+      "Options": [ "Validating that the project quality requirements are met", "Controlling changes to the scope of the project", "Obtaining the stakeholders' formal acceptance of the project deliverables", "Validating that all of the project's objectives are met" ],
+      "CorrectIndex": 2,
+      "Explanation": "Scope Validation involves obtaining the stakeholders' formal acceptance of project deliverables. [PMBOK 6th edition, Page 163]"
+    },
+    {
+      "Text": "As a project manager, you are analyzing the costs incurred in a project. Which of the following costs cannot be classified under cost of nonconformance?",
+      "Options": [ "Quality Assurance Costs", "Warranty costs", "Costs due to loss of reputation", "Rework costs" ],
+      "CorrectIndex": 0,
+      "Explanation": "The Quality Assurance Costs are part of the cost of conformance. The cost of non-conformance includes the failure costs. [PMBOK 6th edition, Page 282]"
+    },
+    {
+      "Text": "Which of the following approaches can assist in managing ambiguity risks?",
+      "Options": [ "Monte Carlo analysis", "Root cause analysis", "Seeking expert external input", "Conducting sprint retrospectives" ],
+      "CorrectIndex": 2,
+      "Explanation": "Ambiguity risks are managed by defining those areas where there is a deficit of knowledge or understanding, then filling the gap by obtaining expert external input. [PMBOK 6th edition, Page 399]"
+    },
+    {
+      "Text": "A project manager estimates the work to be accomplished in the near term in detail at a low level of the Work Breakdown Structure (WBS). He estimates work far in the future as WBS components that are at a relatively high level of the WBS. What is this technique called?",
+      "Options": [ "Decomposition", "Rolling wave planning", "Scope Creep", "Earned value planning" ],
+      "CorrectIndex": 1,
+      "Explanation": "In Rolling Wave Planning, the work to be accomplished in the near term is estimated in detail at a low level of the Work Breakdown Structure (WBS). [PMBOK 6th edition, Page 185]"
+    },
+    {
+      "Text": "Negative risks can either be ______, transferred, or mitigated as a countermeasure.",
+      "Options": [ "enhanced", "avoided", "exploited", "ignored" ],
+      "CorrectIndex": 1,
+      "Explanation": "You can avoid a risk by revising the project plan to eliminate the risk entirely. [PMBOK 6th edition, Page 397]"
+    },
+    {
+      "Text": "The WBS represents all product and project work. The total work at the lowest levels should roll up to the higher levels so that nothing is left out and no extra work is performed. This principle is also the:",
+      "Options": [ "100 percent rule", "80/20 rule", "Pareto's rule", "Ground rule" ],
+      "CorrectIndex": 0,
+      "Explanation": "The WBS represents all product and project work. The total work at the lowest levels should roll up to the higher levels. This principle is also called the 100% rule. [PMBOK 6th edition, Page 161]"
+    },
+    {
+      "Text": "A technical team can begin to edit a large document 15 days after it begins writing it. What kind of dependency would this represent?",
+      "Options": [ "Start-to-start with a 15-day lead", "Finish-to-finish with a 15-day lead", "Start-to-start with a 15-day lag", "Finish-to-start with a 15-day lag" ],
+      "CorrectIndex": 2,
+      "Explanation": "The relationship between the two tasks would be represented as a start-to-start with a lag of 15 days. A lag directs a delay in the successor activity. [PMBOK 6th edition, Page 190]"
+    },
+    {
+      "Text": "How does the role of a project manager change based on managing projects using a predictive development life cycle then managing projects in adaptive environments?",
+      "Options": [ "The role of the project manager changes to a facilitator in predictive environments.", "The role of the project manager changes to a facilitator in adaptive environments.", "The role of the project manager does not change.", "The role of the project manager is replaced with a scrum master in adaptive environments." ],
+      "CorrectIndex": 2,
+      "Explanation": "The role of the project manager does not change bases on managing project using a predictive development life cycle or managing project in adaptive environments. [PMBOK 6th edition, Page 178]"
+    },
+    {
+      "Text": "The business case documents the business need and the cost benefit analysis that justify the project. The summary of how the project has achieved the business needs identified in the business case is document in the:",
+      "Options": [ "Project charter", "Project WBS", "Project Scope Statement", "Project final report" ],
+      "CorrectIndex": 3,
+      "Explanation": "The summary of how the project has achieved the business needs identified in the business case is included in a project’s final report. [PMBOK 6th edition, Page 128]"
+    },
+    {
+      "Text": "Configuration management tool selection should be based on the needs of the project stakeholders including organizational and environmental considerations and/or constraints. Which of the following is not a key configuration management consideration while selecting an appropriate configuration management tool for a project?",
+      "Options": [ "Identification and selection of configuration items.", "Recording and reporting of configuration item status.", "Configuration item verification and audit.", "Procedures for accepting and rejecting change requests." ],
+      "CorrectIndex": 3,
+      "Explanation": "Procedures for accepting and rejecting change requests are related to change management rather than configuration management. [PMBOK 6th edition, Pages 118, 119]"
+    },
+    {
+      "Text": "Nancy is carrying out cost-benefit analysis for a project. If undertaken, the project will start in January next year and end by December. The project will incur a constant cost of $10,000 each month (payable by the end of each month) giving a total cost of $120,000 for the project. The revenue from the project is collected on a quarterly basis. The total revenue for the project by the end of December will be $200,000. The opportunity cost of the project is 12 percent which is the bank interest rate Nancy can get if she does not invest in this project. The total present value of all cash outflows is $112,551, while the total present value of all cash inflow is $185,721. What is the benefit-to-cost ratio for the project?",
+      "Options": [ "1.67", "0.6", "1.65", "0.61" ],
+      "CorrectIndex": 2,
+      "Explanation": "Benefit-to-cost ratio (BCR) = PV of inflows / PV of outflows = 1.65. [PMBOK 6th edition, Page 34]"
+    },
+    {
+      "Text": "A Resource Breakdown Structure (RBS) breaks down the project by type of resources. The RBS is an example of a:",
+      "Options": [ "Linear chart", "Matrix chart", "Flow chart", "Hierarchical chart" ],
+      "CorrectIndex": 3,
+      "Explanation": "The Resource Breakdown Structure (RBS) is a hierarchical chart. It is used to break down the project by type of resources. [PMBOK 6th edition, Page 316]"
+    },
+    {
+      "Text": "It is not practical, and usually not necessary, to engage with all stakeholders with the same level of intensity at all times. A project manager must prioritize stakeholders depending upon on who they are, what level of influence they have on the project, and what their interests are. Which of the following techniques helps in stakeholder prioritization?",
+      "Options": [ "Stakeholder engagement matrix", "Stakeholder register", "Stakeholder classification models", "Resource histograms" ],
+      "CorrectIndex": 2,
+      "Explanation": "Stakeholder classification models are used during stakeholder analysis to rank stakeholders based on their power, influence, interest, and impact. [PMBOK 6th edition, Page 512]"
+    },
+    {
+      "Text": "Lucy is managing a high-tech software development project. She has luckily acquired the organization’s best performing employees. However, the project team is not communicating effectively, causing delays. The project communications plan is in place, but it seems as if the employees are not following it. The communications plan lays out the communications requirements but does not explicitly assign responsibilities. What should Lucy do first? (Assume that all the following actions need to be taken at some stage.)",
+      "Options": [ "Persuade the team to follow the plan", "Motivate the team to effectively communicate", "Set and manage expectations", "Resolve conflicts to prevent disruptive behavior" ],
+      "CorrectIndex": 2,
+      "Explanation": "Assuming that none of the given actions have been undertaken in the past, the first thing to do is to set expectations. [PMBOK 6th edition, Page 319, 320]"
+    },
+    {
+      "Text": "Analogous Estimating is an estimation technique that uses the values of parameters such as scope, cost, budget, and duration from a previous similar activity as the basis of activity. It is frequently used for estimation when there is a limited amount of information about the project. This is a form of:",
+      "Options": [ "Gross value estimation", "Function point estimation", "Fixed point estimation", "Precision Estimation" ],
+      "CorrectIndex": 0,
+      "Explanation": "Analogous estimating is a gross value estimating technique. [PMBOK 6th edition, Page 200]"
+    },
+    {
+      "Text": "Which of the following approaches encourages plan definition but also acknowledges that once work starts, the priorities may change and the plan needs to be updated to reflect this change?",
+      "Options": [ "Waterfall approach", "Adaptive planning", "Predictive life cycle", "Upfront planning" ],
+      "CorrectIndex": 1,
+      "Explanation": "Adaptive planning defines a plan but acknowledges that once work starts, the priorities may change and the plan might need to be updated. [PMBOK 6th edition, Page 177]"
+    },
+    {
+      "Text": "Once the project charter is authorized, it is the project manager’s duty to distribute the charter to all key stakeholders and ensure common understanding of the key deliverables, milestones, and their roles and responsibilities. During which of the following processes is the project charter distributed to the project stakeholders?",
+      "Options": [ "Direct and Manage Project Work", "Manage Stakeholder Engagement", "Develop Project Charter", "Manage Communications" ],
+      "CorrectIndex": 2,
+      "Explanation": "Develop Project Charter process produces the project charter and this output must be shared with the stakeholders at the end of this process. [PMBOK 6th edition, Page 75]"
+    },
+    {
+      "Text": "Adam has just taken over a construction project. The project is currently in the planning phase of the project lifecycle. Adam’s next deliverable is to produce an effective stakeholder engagement strategy. Which of the following is the most important component of an effective stakeholder engagement plan?",
+      "Options": [ "Management style", "Risk tolerance", "Construction know-how", "Communications" ],
+      "CorrectIndex": 3,
+      "Explanation": "Stakeholder engagement relies on continuous communication with stakeholders to understand their needs and expectations. [PMBOK 6th edition, Page 518]"
+    },
+    {
+      "Text": "The banks in the Ukraine have raised the annual interest rates sharply to 30 percent. You have the option to invest your money either in Ukrainian banks or to build a small factory for a client. The total cost of building the factory will be $12 million but it will spread evenly over one year ($1 million payable by the end of each month for the next 12 months). The client will make a payment of $3.9 million at the end of each quarter from the start of the project. Which of the following is the best option (if you are only considering the return on investment)?",
+      "Options": [ "Build the factory for the client", "Invest the money in the bank for a year", "Both options offer the same payoff", "Information given is insufficient to determine the best option" ],
+      "CorrectIndex": 1,
+      "Explanation": "Since the bank is offering an annual 30% return on investment, it is advisable not to undertake the project and leave the money in the bank account. [PMBOK 6th edition, Page 34]"
+    },
+    {
+      "Text": "Which of the following are short, textual descriptions of required functionality often developed during a requirements gathering workshop:",
+      "Options": [ "Fishbone diagrams", "User stories", "Histograms", "Decision trees" ],
+      "CorrectIndex": 1,
+      "Explanation": "User stories are short, textual descriptions of required functionality often developed during a requirements gathering workshop. [PMBOK 6th edition, Page 145]"
+    },
+    {
+      "Text": "Which of the following is an example of rolling wave planning in a project following an adaptive life cycle?",
+      "Options": [ "Iterative scheduling with a just-in-time log", "Predictive scheduling with no backlog", "Inflexible scheduling without leads and lags", "Iterative scheduling with a backlog" ],
+      "CorrectIndex": 3,
+      "Explanation": "Iterative scheduling with a backlog is a form of rolling wave planning based on adaptive life cycles. [PMBOK 6th edition, Page 177]"
+    },
+    {
+      "Text": "A project manager first creates an assumption log during the Develop Project Charter process and records all project assumptions and constraints. During which of the following processes is the assumptions log updated and/or new assumptions and constraints added during the project execution?",
+      "Options": [ "Monitor and Control Project Work", "Close Project or Phase", "Direct and Manage Project Work", "Collect Requirements" ],
+      "CorrectIndex": 2,
+      "Explanation": "During the Direct and Manage Project Work process, new assumptions and constraints are added to the assumption log. [PMBOK 6th edition, Pages 81, 97]"
+    },
+    {
+      "Text": "A project was estimated to cost $200,000 with a timeline of 10 months. Due to a shipment delay, the schedule was slightly delayed. However, this was made up by shipping the first batch of materials for the project by air. The net result was that there was some additional cost in the project. At the end of the second month, the Project Manager reviews the project and finds that the project is 20% complete and Actual Costs are $50,000. The Estimate to Complete (ETC) for the project would now be:",
+      "Options": [ "$160,000", "$210,000", "$250,000", "$200,000" ],
+      "CorrectIndex": 0,
+      "Explanation": "EAC = AC + BAC – EV = 50,000 + 200,000 – 40,000 = $210,000. Since ETC = EAC – AC = $160,000. [PMBOK 6th edition, Page 267]"
+    },
+    {
+      "Text": "You have a team of engineers working on your project. Two of the engineers have frequent disagreements. You ask them to resolve their differences through a discussion. However, that does not yield any results. Subsequently, you intervene, and based on your analysis of the situation, you suggest some changes in the way they work with each other. This still does not yield results, and you find that the project schedule is beginning to suffer. What is your next course of action?",
+      "Options": [ "Take disciplinary action, if required, since the needs of the project are not being met.", "Don't do anything. Differences of opinion among the team members are a healthy situation.", "Speak to the two team members and ask them to resolve their conflict amicably.", "Ensure that they work in different shifts so that they don't clash with each other." ],
+      "CorrectIndex": 0,
+      "Explanation": "After the project manager has tried intervening, it is time to employ more formal conflict resolution mechanisms, such as disciplinary action. [PMBOK 6th edition, Page 348]"
+    },
+    {
+      "Text": "Nate is the project manager for a research and development project. According to the project communication management plan, Nate has to call in weekly project progress update meetings. The last few meetings were a disaster since more time was spent in arguments and less on decisions. Which of the following techniques does Nate need to quickly acquire?",
+      "Options": [ "Presentation techniques", "Listening techniques", "Writing style", "Meeting management techniques" ],
+      "CorrectIndex": 3,
+      "Explanation": "Nate needs to acquire meeting management skills that includes preparing agenda, timekeeping, dealing with conflicts, and recording and distributing minutes etc. [PMBOK 6th edition, Page 386]"
+    },
+    {
+      "Text": "While developing the project schedule, you find that the completion of a successor activity depends on the completion of its predecessor activity. What is this dependency called?",
+      "Options": [ "Start-to-Finish", "Start-to-Start", "Finish-to-Start", "Finish-to-Finish" ],
+      "CorrectIndex": 3,
+      "Explanation": "In a Finish-to-Finish dependency, the completion of the successor activity depends upon the completion of its predecessor activity. [PMBOK 6th edition, Page 190]"
+    },
+    {
+      "Text": "Which of the following is not a tool and technique of the Collect Requirements process?",
+      "Options": [ "Mind mapping", "Interviews", "Questionnaires", "Traceability matrix" ],
+      "CorrectIndex": 3,
+      "Explanation": "The requirements traceability matrix is an output of the Collect Requirements process and not one of its tools and techniques. [PMBOK 6th edition, Page 138]"
+    },
+    {
+      "Text": "One key characteristic of adaptive lifecycles, such as the agile approach for product development, is that product features are developed using:",
+      "Options": [ "Sandwiched periods of effort", "Squeezed periods of zero-error sprints", "Reverse engineered products", "Time-boxed periods of work" ],
+      "CorrectIndex": 3,
+      "Explanation": "In adaptive life cycles, the requirements are documented in user stories that are then prioritized and refined. The product features are developed using time-boxed periods of work. [PMBOK 6th edition, Page 177]"
+    },
+    {
+      "Text": "A project manager wishes to illustrate the connections between the work that needs to be done and the project team members. According to the PMBOK, the resulting document is a:",
+      "Options": [ "Responsibility Assignment Matrix (RAM)", "Resource Planning Chart (RPC)", "Task Assignment Model (TAM)", "Resource Assignment Chart (RAC)" ],
+      "CorrectIndex": 0,
+      "Explanation": "The correct response is Responsibility Assignment Matrix (RAM). This illustrates the connections between the work that needs to be done and the various team members. [PMBOK 6th edition, Page 317]"
+    },
+    {
+      "Text": "Many project managers have seen a graph that shows “Influence of Stakeholders” starting out high and declining as the project progresses. In contrast, it also shows the “Cost of Changes” starting out low and increasing as the project progresses. What is the key insight a project manager should gain from this graph?",
+      "Options": [ "Stakeholder influence is not important at the end of the project.", "Make changes as early in the project as possible.", "Set aside money for expected changes at the end of the project.", "Place the project on hold until all changes are made." ],
+      "CorrectIndex": 1,
+      "Explanation": "Changes should be made as early as possible in the project to avoid additional cost and delays. [PMBOK 6th edition, Page 549]"
+    },
+    {
+      "Text": "Which of the following techniques can help a project manager review a supplier’s internal work processes to ensure compliance to standards during the production of the deliverables? (Assume that all of the given choices are available to the project manager.)",
+      "Options": [ "Audits", "Performance reporting", "Contract change control", "Inspections" ],
+      "CorrectIndex": 3,
+      "Explanation": "Inspections required by the buyer and supported by the supplier, if specified in the procurement contract, can be conducted during execution of the project to verify compliance. [PMBOK 6th edition, Page 498]"
+    },
+    {
+      "Text": "The best practice to gather and document lessons learned is during weekly progress meetings. The agenda can have a lessons-learned brainstorming item at the end of these meetings. You can ask team members to put forward their recommendations, but it is always better to adopt a more structured way to gather lessons learned. Which of the following approaches will ensure you capture important lessons learned on your project?",
+      "Options": [ "Planning risk responses", "Determining estimate to complete", "Review of project variances", "Signing off on the minutes of the meeting" ],
+      "CorrectIndex": 2,
+      "Explanation": "Lessons learned can be captured through the review of project variances. You review the variances again and focus on how to avoid them in the future. [PMBOK 6th edition, Page 108]"
+    },
+    {
+      "Text": "Work Performance Data is an important input to the Control Procurements process. Which of the following is not a component of Work Performance Data?",
+      "Options": [ "Data regarding supplier’s conformance to quality standards", "Data on completed deliverables", "Data regarding incurred or committed costs on each supplier contract", "Data on supplier invoices and respective payments" ],
+      "CorrectIndex": 1,
+      "Explanation": "Data on status of deliverables progress is part of Work Performance Information and not Work Performance Data. [PMBOK 6th edition, Pages 496, 499]"
+    }
+  ]
+}

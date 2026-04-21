@@ -1,0 +1,304 @@
+{
+  "Questions": [
+    {
+      "Text": "Andy has just become the project manager of a multi-million-dollar construction project. Andy also has an approved project charter that authorizes him to apply organizational resources to the project. Now, Andy wants to take all key stakeholders onboard with the project charter. Where can Andy find a preliminary list of all key stakeholders?",
+      "Options": [ "Project charter", "Stakeholder register", "Project management plan", "Risk register" ],
+      "CorrectIndex": 0,
+      "Explanation": "The project has just been approved and all Andy has at the moment is the project charter itself. The project charter has a preliminary list of project stakeholders. Andy can use this list as a starting point. [PMBOK 6th edition, Page 81]"
+    },
+    {
+      "Text": "When writing the roles and responsibilities for team members, you should document the role, authority, responsibility, and competency for each team member. Where must you document this information?",
+      "Options": [ "Resource management plan", "RACI chart", "Resource calendar", "Resource Breakdown Structure (RBS)" ],
+      "CorrectIndex": 0,
+      "Explanation": "Information regarding team roles, responsibilities, authorities and competencies is documented in the Resource Management Plan. [PMBOK 6th Edition, Pages 318, 319]"
+    },
+    {
+      "Text": "A project’s financial management reserves are determined in which process:",
+      "Options": [ "Estimate Costs", "Determine Budget", "Control Costs", "Estimate Activity Resources" ],
+      "CorrectIndex": 1,
+      "Explanation": "The Management Contingency Reserve is identified in the Determine Budget process. [PMBOK 6th edition, Page 254]"
+    },
+    {
+      "Text": "Which of these is not a component of the scope baseline that is contained in the project management plan?",
+      "Options": [ "Work Breakdown Structure (WBS)", "Requirements documentation", "WBS Dictionary", "Project Scope Statement" ],
+      "CorrectIndex": 1,
+      "Explanation": "Project requirements documentation is used as an input to define the project's scope baseline. However, the requirements documentation is not a part of the scope baseline. [PMBOK 6th edition, Page 161]"
+    },
+    {
+      "Text": "The agile technique of on-demand scheduling is not suitable when:",
+      "Options": [ "Product deliverables can be incrementally developed.", "Project requirements can be decomposed into smaller chunks that are relatively similar in size and scope.", "Project tasks can be bundled by size and scope.", "The use of a predictive lifecycle is mandated by the customer." ],
+      "CorrectIndex": 3,
+      "Explanation": "If the use of a predictive lifecycle is mandated by the customer, no other project life cycles can be selected. Hence most of the agile techniques will be inapplicable in those scenarios. [PMBOK 6th edition, Page 177]"
+    },
+    {
+      "Text": "Project stakeholders are individuals and organizations who are actively involved in the project or who have an interest in it. Which of the following is not an internal stakeholder?",
+      "Options": [ "Program Manager", "Project Sponsor", "Competitor", "Project Manager" ],
+      "CorrectIndex": 2,
+      "Explanation": "The competitors are affected by the project but are not actively involved in the project. Competitors are external project stakeholders. [PMBOK 6th edition, Page 550]"
+    },
+    {
+      "Text": "Caitlin’s project is behind schedule. She is planning to crash the project by allowing overtime to the project team. This approach can bring additional risks to the project. Which of the following is not a valid risk in this scenario:",
+      "Options": [ "The profit margin might decrease.", "Risk of employee attrition might increase.", "Risk of errors and/or rework might increase.", "The project’s acceptance criteria might get updated." ],
+      "CorrectIndex": 3,
+      "Explanation": "Meeting customer requirements by overworking the project team may result in decreased profits, increased levels of overall project risks, employee attrition, errors, or rework. The project’s acceptance criteria should not get updated as a result of crashing. [PMBOK 6th edition, Page 273]"
+    },
+    {
+      "Text": "Sandra is managing a complex ERP design and implementation project. The project team has recently been hired. It is an enterprise-wide project affecting many stakeholders. It is very important for each team member to properly understand and follow the project communication requirements in order to keep the stakeholders engaged and informed. Which of the following tools and techniques can Sandra use to ensure that team members properly understand the project’s communications requirements?",
+      "Options": [ "Ground rules", "Training", "Co-location", "Recognition and rewards" ],
+      "CorrectIndex": 1,
+      "Explanation": "All of the choices look correct at the first glance. However, the question is specifically asking for a technique that will raise the awareness of the communication requirements. Training is the ideal tool for increasing the awareness of the team members. [PMBOK 6th edition, Page 342]"
+    },
+    {
+      "Text": "You are managing a construction project. Your company does not specialize in construction design so you outsourced the construction design to a third party. You are conducting regular procurement performance reviews and are dissatisfied. You want to carry out a detailed audit of the design supplier’s work processes to determine the root cause. Can you do that?",
+      "Options": [ "Yes, it is a good project management technique advocated by the PMBOK guide.", "Yes, if there is a provision in the contract allowing work process audits.", "No, you are only authorized to perform quality audits on the delivered products and not the supplier’s internal work processes.", "No, a detailed procurement audit cannot be performed until you terminate the contract." ],
+      "CorrectIndex": 1,
+      "Explanation": "Inspections and audits required by the buyer and supported by the supplier, if specified in the procurement contract, can be conducted during execution of the project to verify compliance in the seller’s work processes or deliverables. [PMBOK 6th edition, Page 498]"
+    },
+    {
+      "Text": "Mary is currently drafting a stakeholder engagement plan for her new website development project. Her organization has strict communication guidelines. Mary wants to ensure that her stakeholder engagement strategy aligns with the organizational communications guidelines. Where can she find these guidelines?",
+      "Options": [ "Corporate knowledge base", "Stakeholder register", "Project contract", "Lessons learned library" ],
+      "CorrectIndex": 0,
+      "Explanation": "Mary is looking for the organizational policy on project communications. This is a part of the organizational process assets which are stored in corporate knowledge bases. [PMBOK 6th edition, Page 520]"
+    },
+    {
+      "Text": "As an experienced PMP, you have found that running a WBS meeting is tricky because you need to find a balance between insufficient decomposition and excessive decomposition. When items are excessively decomposed, it leads to all the following except:",
+      "Options": [ "Breaking the 100 percent rule", "Inefficient use of resources", "Nonproductive management effort", "Decreased efficiency when performing work" ],
+      "CorrectIndex": 0,
+      "Explanation": "Excessive decomposition can lead to inefficient use of resources, decreased efficiency and non-productive management efforts. [PMBOK 6th edition, Pages 160, 161]"
+    },
+    {
+      "Text": "Which of the following can NOT be used to measure business value?",
+      "Options": [ "Customer satisfaction", "Revenue growth", "Market share", "Expected monetary value" ],
+      "CorrectIndex": 3,
+      "Explanation": "An increase or decline in Business Value that an action produces is traditionally measured in terms of Customer Satisfaction, Revenue Growth, Profitability, Market Share, Wallet Share, Cross-Sell Ratio, Marketing Campaign Response Rates, or Relationship Duration. Expected monetary value is the product of an event's probability of occurrence and the gain or loss that will result. EMV is used for managing risks and not measuring business value. [PMBOK 6th edition, Pages 7, 435]"
+    },
+    {
+      "Text": "John, a project manager for Code Crashers, Inc., has a project with a group of inexperienced programmers that will develop a software package that creates Material Safety Data Sheets (MSDS) for a chemical company. This situation strongly resembles a project his colleague, Peter, worked on in 2006. If John needs to come up with a rough order of magnitude estimate, what tool or technique should he use?",
+      "Options": [ "Parametric Estimating", "Bottom Up Estimating", "Three-point estimate", "Analogous Estimating" ],
+      "CorrectIndex": 3,
+      "Explanation": "Analogous estimating is the correct choice. This technique relies on parameters from a similar previous project and is a gross value estimating approach. It is also generally less accurate. [PMBOK 6th edition, Page 200]"
+    },
+    {
+      "Text": "Andy is currently working for ABC Contractors as a quality control manager for a railway track construction project. National Railways awarded this cost-plus construction contract to ABC Contractors a few months ago. As a contractual requirement, ABC Contractors has to submit each completed deliverable for client acceptance. Reviewing project data, Andy found that the current submission rejection rate is 22 percent. He conducts a root cause analysis and submits his findings along with construction process improvement recommendations to the project director. In this scenario, Andy’s report is an example of:",
+      "Options": [ "Work performance data", "Raw observations", "Work performance information", "Work control report" ],
+      "CorrectIndex": 2,
+      "Explanation": "The data on rejections is the project performance data. Andy analyzed it and converted it into work performance information, i.e. reasons for rejections and recommendations. [PMBOK 6th edition, Page 26]"
+    },
+    {
+      "Text": "Nancy has recently become the project manager for a project already in execution. Nancy has learned the previous project manager did a good job so far and religiously followed the PMBOK guiding principles. However, some of the project communications don’t make sense to her. Which of the project artifacts should Nancy refer to in order to determine reasons for distribution of some reports?",
+      "Options": [ "Stakeholder engagement plan and the scope management plan", "Stakeholder engagement plan and the communications management plan", "Scope management plan and the communications management plan", "Scope management plan and the risk management plan" ],
+      "CorrectIndex": 1,
+      "Explanation": "The reason for information distribution are documented both in stakeholder engagement plan and communications management plan. Nancy should refer to both of these plans. [PMBOK 6th edition, Pages 377, 522]"
+    },
+    {
+      "Text": "Which of the following is NOT a knowledge management tools and technique?",
+      "Options": [ "Networking", "Change requests", "Knowledge fairs and cafes", "Storytelling" ],
+      "CorrectIndex": 1,
+      "Explanation": "Change request is a change management tool and not a knowledge management tool. The other choices are valid examples of knowledge management tools. [PMBOK 6th edition, Page 103]"
+    },
+    {
+      "Text": "Which of the following statements correctly define the 100 percent rule for WBS?",
+      "Options": [ "The project is only considered complete once all requirements defined in the original scope statements have been completed.", "The project is only considered complete once all requirements in the last approved scope baseline have been completed.", "The final deliverables should fully conform to product requirements; nothing less, nothing more.", "The total of the work at the work package level should roll up to the higher levels so that nothing is left out and no extra work is performed." ],
+      "CorrectIndex": 3,
+      "Explanation": "The WBS represents all product and project work, including the project management work. The total of the work at the lowest levels should roll up to the higher levels so that nothing is left out and no extra work is performed. This is called the 100 percent rule. [PMBOK 6th edition, Page 161]"
+    },
+    {
+      "Text": "As part of your resource management plan, you have created a chart indicating the number of hours (Y-axis) that a senior programmer will be working over the months (X-axis) of the project. This is an example of a:",
+      "Options": [ "Pareto Chart", "Ishikawa Diagram", "Resource Histogram", "Staff Acquisition Chart" ],
+      "CorrectIndex": 2,
+      "Explanation": "Resource histogram is a bar chart showing the amount of time that a resource is scheduled to work over a series of time periods. [PMBOK 6th edition, Pages 719]"
+    },
+    {
+      "Text": "Which of the following is NOT a valid project schedule presentation format:",
+      "Options": [ "Activity list", "Activity attributes", "Bar chart", "Network diagram" ],
+      "CorrectIndex": 1,
+      "Explanation": "Activity attribute is not a valid project schedule presentation format while the rest of the choices are. [PMBOK 6th edition, Page 176]"
+    },
+    {
+      "Text": "Which of the following is a set of technical guidelines that may be applied during the design of a product for the optimization of a specific aspect of the design?",
+      "Options": [ "Scope creeping", "Rolling-wave planning", "Design for X", "Scrum master" ],
+      "CorrectIndex": 2,
+      "Explanation": "Design for X is a set of technical guidelines that may be applied during the design of a product for the optimization of a specific aspect of the design. Other choices are either invalid or do not relate to product design. [PMBOK 6th edition, Page 295]"
+    },
+    {
+      "Text": "You are managing a railway track construction project. The construction contract awarded to your company is fixed price and is based on some pre-determined quantities of work to be executed. During the project execution you find out that the actual quantities of work that need to be executed are 20% greater than what has been stated in the contract. What should you do?",
+      "Options": [ "Bill the buyer the additional scope of work separately without amending the contract", "Collect necessary evidence and request the buyer to amend the contract with new quantities", "Engage a third-party arbitrator to help resolve the issue", "Sue the buyer for stating wrong quantities in the contract" ],
+      "CorrectIndex": 1,
+      "Explanation": "In this scenario the scope of works has increased for the contractor. As a first step, the contractor needs to collect necessary evidence and request for the amendment in the contract. If both parties cannot settle this amicably, ADR procedures need to be followed. [PMBOK 6th edition, Page 492]"
+    },
+    {
+      "Text": "Some project managers take communication lightly while managing a project. However, a good project manager must take communication very seriously and must be an effective and efficient communicator. Which of the following is not a fundamental attribute of effective communication?",
+      "Options": [ "Clarity on the purpose", "Understanding receiver's communications requirements", "Relying on verbal communications", "Monitoring communications" ],
+      "CorrectIndex": 2,
+      "Explanation": "The fundamental attributes of effective communication include clarity on the purpose, understanding communication needs and requirements, and monitoring communications. [PMBOK 6th edition, Page 363]"
+    },
+    {
+      "Text": "Who is primarily responsible for the dissemination of the approved project charter and for ensuring that all key stakeholders have a common understanding of the project’s key deliverables and milestones?",
+      "Options": [ "Project sponsor", "Project team", "Project manager", "Project client" ],
+      "CorrectIndex": 2,
+      "Explanation": "The project manager is responsible for the dissemination of the approved project charter. Although, during the development of the project charter, the participation of the project manager is recommended, once the project charter is approved, it is the project manager’s responsibility to distribute it to the key stakeholders and ensure common understanding. This is also mentioned in the PMP examination content outline as one of the project manager’s task during project initiation. [PMI best practice; not explicitly stated in PMBOK]"
+    },
+    {
+      "Text": "You manage the construction of a new airport in your home country. Since your organization does not have experience deploying the sophisticated air-traffic control system, you outsourced this to a specialist organization. PMBOK’s Procurement Management knowledge will help you successfully administer this deal; however, for the supplier of the system, all the PMBOK processes will apply since this will be a complete project for the supplying organization. Which of the following will be a common denominator between your project and the supplier projects?",
+      "Options": [ "Project management plan", "Supply agreement", "Project’s scope of work", "Budget for the air-traffic control system" ],
+      "CorrectIndex": 1,
+      "Explanation": "The common denominator should be a document that is common between the buyer and the supplier, that is the supply agreement. The rest of the choices are the project artifacts what will be different for each party since supplier’s scope of work is limited in comparison to the buyer’s scope of work. [PMBOK 6th edition, Page 489]"
+    },
+    {
+      "Text": "At which stage in a project should the project manager begin to develop effective stakeholder engagement strategies throughout the project lifecycle?",
+      "Options": [ "Initiating", "Executing", "Planning", "Monitoring and Controlling" ],
+      "CorrectIndex": 2,
+      "Explanation": "The project manager starts developing effective stakeholder engagement strategies early during the project’s planning phase. This effort is carried out during the Plan Stakeholder Engagement process and the strategies are then documented in the Stakeholder Engagement Plan. [PMBOK 6th edition, Page 516]"
+    },
+    {
+      "Text": "An organization wishes to ensure that the opportunity arising from a risk with positive impact is realized. This organization should:",
+      "Options": [ "Exploit the risk", "Mitigate the risk", "Accept the risk", "Avoid the risk" ],
+      "CorrectIndex": 0,
+      "Explanation": "Five strategies to deal with risks with potentially positive impacts on project objectives are to escalate, exploit, share, enhance, or accept the risk. An exploit strategy ensures that the opportunity is realized. [PMBOK 6th edition, Page 444]"
+    },
+    {
+      "Text": "Your vice president asked you what the Estimate at Completion (EAC) will be for a small project you are working on. You were given a budget of $30,000, and to date you have spent $20,000 but only completed $10,000 worth of work. You are sure the future work will be accomplished at the planned rate. What is the EAC?",
+      "Options": [ "$40,000", "$30,000", "$60,000", "$10,000" ],
+      "CorrectIndex": 0,
+      "Explanation": "If the future work will be accomplished at the planned rate, then the Estimate at Completion (EAC) will be AC+BAC-EV. Budget at Completion (BAC) is $30,000, Earned Value (EV) is $10,000, and Actual Cost (AC) is $20,000. Hence, the EAC is $40,000. [PMBOK 6th edition, Page 267]"
+    },
+    {
+      "Text": "You just sat through an exhausting change control meeting discussing a change in scope to the project you have worked on for the past seven months. After lengthy discussion, the change in scope was approved. As the Project Manager, you should now update all the following documentation, except:",
+      "Options": [ "Scope Baseline", "Requirements documentation", "WBS Dictionary", "Project charter" ],
+      "CorrectIndex": 3,
+      "Explanation": "It is the project scope statement and not the project charter that should be updated. The project charter contains only the high-level requirements and high-level project description. All of the other documents listed in the other choices should also be updated. [PMBOK 6th edition, Page 81]"
+    },
+    {
+      "Text": "You work at a software company that authors Material Safety Data Sheets (MSDS) for chemical companies. Prior to releasing the MSDS to the company, you have created a list of items for review to ensure they appear in the document. These items include chemical name, CAS#, protection required, what to do in an emergency, etc. This list is an example of what type of tool?",
+      "Options": [ "Checklist", "Process Improvement Plan", "Quality Management Plan", "Quality Metrics" ],
+      "CorrectIndex": 0,
+      "Explanation": "The scenario describes a checklist that someone would use to review the document prior to its release. [PMBOK 6th edition, Page 292]"
+    },
+    {
+      "Text": "Agile release planning provides a high-level summary timeline of the release schedule based on the project roadmap. Agile release planning also determines the number of iterations required for the product development. These iterations are also known as:",
+      "Options": [ "Epics", "Kanbans", "Sprints", "Phases" ],
+      "CorrectIndex": 2,
+      "Explanation": "Agile release planning determines the number of iterations required for the product development known as sprints. [PMBOK 6th edition, Page 216]"
+    },
+    {
+      "Text": "You manage an airport construction project. Since sophisticated technology and systems are involved, your project procurements require significant lead times. Your procurement specialist has recently proposed a new procurements management process that will significantly reduce these lead times and result in cost savings for the project. Besides implementing this new process, what else should you do?",
+      "Options": [ "Resell your current inventory at the purchase price", "Shut down the project warehouse", "Update the lessons-learned database", "Do not include the over-processing costs" ],
+      "CorrectIndex": 2,
+      "Explanation": "Sharing lessons learned information on mistakes, innovations and outcomes from projects can have a positive impact on your next project. The procurement specialist came up with a cost- and time-saving technique and this will prove to be valuable for future projects. [PMBOK 6th edition, Page 484]"
+    },
+    {
+      "Text": "Sandra is managing an ERP system deployment project. Due to the complexity of the project and the number of project stakeholders involved, she decides to use a multi-criteria decision analysis for reviewing all change requests. What should her first step in establishing this?",
+      "Options": [ "Develop a decision matrix", "Develop a decision tree", "Develop a fishbone diagram", "Develop a control chart" ],
+      "CorrectIndex": 0,
+      "Explanation": "The Multi-criteria decision analysis uses a decision matrix to provide a systematic analytical approach to evaluate the requested change according to a set of predefined criteria. The other choices are either quality or risk management tools. [PMBOK 6th edition, Page 119]"
+    },
+    {
+      "Text": "Which of the following processes produces a Risk Register?",
+      "Options": [ "Perform Quantitative Risk Analysis", "Plan Risk Management", "Perform Qualitative Risk Analysis", "Identify Risks" ],
+      "CorrectIndex": 3,
+      "Explanation": "The risk register is an output of the Identify Risks process. [PMBOK 6th edition, Page 409]"
+    },
+    {
+      "Text": "The Risk Register contains details of all identified risks and their current status. It is a document containing the results of:",
+      "Options": [ "Plan Risk Responses", "Identify Risks", "Monitor Risks", "Perform Qualitative Risk Analysis, Perform Quantitative Risk Analysis, and Plan Risk Responses" ],
+      "CorrectIndex": 3,
+      "Explanation": "The Risk Register contains the results of the Perform Qualitative Risk Analysis, Perform Quantitative Risk Analysis, and Plan Risk Responses processes. It details all identified risks, including description, category, cause, probability of occurring, impact(s) on objectives, proposed responses, owners, and current status. [PMBOK 6th edition, Pages 419, 428, 449]"
+    },
+    {
+      "Text": "Ben is the project manager for a mobile application development project. Due to a recent technological development, a significant change in the product design is required. This change would require a 25 percent increase in the project budget. Ben prepares a detailed report and emails it to the project sponsor, and the sponsor acknowledges the receipt of the report. What should Ben do next?",
+      "Options": [ "Update the cost management plan", "Update the project budget", "Update the project schedule", "Wait for the formal approval of the new budget" ],
+      "CorrectIndex": 3,
+      "Explanation": "Acknowledgement of a message does not necessarily mean agreement with or comprehension of the message. Ben should wait for a formal approval of the budget before taking any action. [PMBOK 6th edition, Page 113]"
+    },
+    {
+      "Text": "You are the project manager responsible for building a 100,000-square foot data center. One of the scheduled activities in your plan is to install the Computer Room Air Conditioning (CRAC) units. However, before beginning the installation of the units, a raised floor must be installed for the units to bolt to. This is an example of what type of dependency?",
+      "Options": [ "External", "Optional", "Discretionary", "Mandatory" ],
+      "CorrectIndex": 3,
+      "Explanation": "This is an example of a mandatory dependency, since the units will be bolted to the raised floor. [PMBOK 6th edition, Page 191]"
+    },
+    {
+      "Text": "Robert wants to assign a risk owner for every project risk for which a risk response action is planned. Where must he update this information?",
+      "Options": [ "Resource management plan", "Risk register", "Stakeholder register", "Project charter" ],
+      "CorrectIndex": 1,
+      "Explanation": "The assigned risk owners are documented in the risk register. [PMBOK 6th edition, Page 413]"
+    },
+    {
+      "Text": "You are analyzing the risk in a project. You decide to do a sensitivity analysis to determine which risks have the most potential impact on the project. You consider using a tool to help compare the relative importance of variables that have a high degree of uncertainty with those variables that are more stable. One such tool is:",
+      "Options": [ "Beta Distribution", "S-Curve", "Control Chart", "Tornado Diagram" ],
+      "CorrectIndex": 3,
+      "Explanation": "A tornado diagram is useful for comparing the relative importance of variables that have a high degree of uncertainty with those that are more stable. [PMBOK 6th edition, Page 434]"
+    },
+    {
+      "Text": "Which of these is accurate regarding the Develop Schedule process?",
+      "Options": [ "Schedules are optimized such that all noncritical activities have a zero total float.", "The critical path method is a schedule network analysis technique that is performed using the schedule model.", "Schedule compression shortens the project schedule while changing the project scope.", "Schedule network analysis is a technique carried out once the schedule is approved." ],
+      "CorrectIndex": 1,
+      "Explanation": "The accurate statement regarding the Develop Schedule process is that the critical path method is a schedule network analysis technique that is performed using the schedule model. The other statements are not accurate. [PMBOK 6th edition, Page 209]"
+    },
+    {
+      "Text": "You are working as the project manager on a mega-construction project. You need to prepare a quarterly report for the project investors. You need to collect work performance data and convert that into work performance information. Which of the following processes produces work performance data?",
+      "Options": [ "Direct and Manage Project Work", "Control Schedule", "Control Costs", "Manage Communications" ],
+      "CorrectIndex": 0,
+      "Explanation": "Although the scenario of the question is broad, the question specifically asks about the process which produces work performance data. In other words, what is being asked is “work performance data” is output of which of the given processes. The correct answer is Direct & Manage Project Work process. [PMBOK 6th edition, Page 90]"
+    },
+    {
+      "Text": "When a project is executed under contract, the contractual provisions will generally be considered as _____________ for the project.",
+      "Options": [ "Constraints", "Exclusions", "Deliverables", "Provisions" ],
+      "CorrectIndex": 0,
+      "Explanation": "When a project is performed under contract, the contractual provisions are generally considered as constraints for the project as they are the limiting factors. [PMBOK 6th edition, Page 42]"
+    },
+    {
+      "Text": "You are the project manager responsible for building a 100,000-square foot data center. One of the scheduled activities in your plan is to install the Computer Room Air Conditioning (CRAC) units. However, a raised floor must be installed in the data center before installation of the units can begin. This is an example of what type of precedence relationship?",
+      "Options": [ "Finish to Finish", "Start to Finish", "Start to Start", "Finish to Start" ],
+      "CorrectIndex": 3,
+      "Explanation": "The successor activity, in this case the installation of the CRAC units, cannot begin until the raised floor in the data center is completed (because the units need to sit on the raised floor). Therefore, this is an example of a finish-to-start relationship. [PMBOK 6th edition, Page 190]"
+    },
+    {
+      "Text": "The Manage Team process is part of what process group?",
+      "Options": [ "Planning", "Executing", "Monitoring and Controlling", "Closing" ],
+      "CorrectIndex": 1,
+      "Explanation": "The Manage Team process is part of the Executing process group. [PMBOK 6th edition, Page 25]"
+    },
+    {
+      "Text": "You have a project in which you are responsible for building a condo complex in a resort town. The project is expected to take two years to complete. During your work breakdown structure meeting, you have decomposed many deliverables into work packages and schedule activities. However, there are some work packages that will occur a year from now, so you have elected not to decompose those deliverables and work packages at this time. This is an example of what tool or technique?",
+      "Options": [ "Scope Creep", "Poor Planning", "Rolling Wave Planning", "Time-delayed Decomposition" ],
+      "CorrectIndex": 2,
+      "Explanation": "The correct answer is rolling wave planning. Rolling wave planning is a form of progressive elaboration and is used when the project management team does not have enough information for a phase or deliverable that will occur far into the future. [PMBOK 6th edition, Page 160]"
+    },
+    {
+      "Text": "Lucy has recently been assigned as the project manager for a new shopping mall construction project. Since the project will span well over five years, Lucy is a bit hesitant to use the current market rates for estimating construction materials cost. The prices have been steadily increasing and the current market rates might not remain valid in the future. Which of the following techniques can Lucy apply to determine her project budget?",
+      "Options": [ "Conduct a trend analysis on the cost of materials and use that to extrapolate the cost of materials in the future.", "Determine the cost of the project using current market rates and increase the total budget by some factor.", "Compute the Net Present Value of the cost of materials and use that to determine the project budget.", "Use Rolling Wave Planning to determine the budget as the project progresses." ],
+      "CorrectIndex": 0,
+      "Explanation": "Conduct a trend analysis on the cost of materials and using that to extrapolate the cost of materials in the future is the best response. Trend analysis is used to forecast future based on past results. This is most probably the only choice available to Lucy if she is required to determine the project budget today. Other choices are incorrect as they can’t produce better results. [PMBOK 6th edition, Page 111]"
+    },
+    {
+      "Text": "You are attempting to estimate the resources required to assemble the server racks in the new data center you are building. It has occurred to you that you may be able to compress the schedule if you use power tools instead of hand tools to build the racks and if you employ individuals who have worked on this brand of rack in the past. According to PMBOK, considering multiple options for estimating is an example of what type of resource estimating technique?",
+      "Options": [ "Top Down Estimating", "Bottom Up Estimating", "Alternative Analysis", "Robust estimating" ],
+      "CorrectIndex": 2,
+      "Explanation": "In this scenario, you are looking for alternative ways to compress the schedule by using experienced resources and power tools instead of hand tools. This is an example of alternative analysis. [PMBOK 6th edition, Page 699]"
+    },
+    {
+      "Text": "You have just received an invoice from your supplier that contains some uncertified items. Payments to the supplier are processed through your corporate accounts payable system only after certification of satisfactory work by the project quality control specialist. What should you do?",
+      "Options": [ "Process the supplier’s invoice since this is your liability", "Call the supplier and obtain more information", "Ask the supplier to stop all deliveries until the matter has a resolution", "Seek judicial arbitration" ],
+      "CorrectIndex": 1,
+      "Explanation": "The supplier could have sent the invoice by mistake or some other reason. The first step is to clarify the matter with the supplier. You must call the supplier and obtain more information before you take any other step. [PMBOK 6th edition, Page 498]"
+    },
+    {
+      "Text": "You have recently joined an organization as the procurements manager. You have just received an invoice from a contractor. Some of the items from the invoice are as follows: EV of work completed to date: $50,000. AC of work completed to date: $40,000. Total costs reimbursed by the buyer to date: $35,000. If the contract between the buyer and the contractor is a CPIF contract, what is the total value payable to this contractor? (Assume that the contract allows for a 10 percent fee over net payable whenever CPI > 1).",
+      "Options": [ "$500", "$5,500", "$44,000", "$55,000" ],
+      "CorrectIndex": 1,
+      "Explanation": "Since this is a CPIF (Cost plus incentive fee) contract, the fee is calculated as a percentage of the actual cost provided that the CPI is greater than 1. In this case CPI is greater than one (i.e. CPI = 1.25) and hence 10% fee is applicable on the total cost reimbursable. AC is $40k out of which $35k has already been reimbursed. Hence total cost reimbursable is $5k. The total payable in this case is $5k x 1.1 = $5,500. [PMBOK 6th edition, Page 472]"
+    },
+    {
+      "Text": "Kate has been asked to conduct the feasibility of a new CRM system. So far, the business has been relying on its traditional manual customer relationship management processes, but now it is struggling to keep up with the competition. In this scenario, the business’ requirement of acquiring a state-of-the-art CRM system to boost its customer relations management capabilities is an example of:",
+      "Options": [ "Business requirements", "Functional requirements", "Non-functional requirements", "Project requirements" ],
+      "CorrectIndex": 0,
+      "Explanation": "Business requirements describe the higher-level needs of the organization as a whole, such as the business issues or opportunities. Other choices are much lower level requirements. [PMBOK 6th edition, Page 148]"
+    },
+    {
+      "Text": "During a work breakdown structure meeting, you have decomposed the deliverables into work packages and created your WBS dictionary. However, you now want to decompose the work packages to assist you in estimating, executing, and controlling the project. These decomposed work packages are:",
+      "Options": [ "Work packages can't be decomposed into smaller units", "Activities", "Milestones", "Control Accounts" ],
+      "CorrectIndex": 1,
+      "Explanation": "Activities represent the effort needed to complete a work package and are an output of the Define Activities process. During this process, the work packages are further decomposed into project activities. [PMBOK 6th edition, Page 185]"
+    }
+  ]
+}

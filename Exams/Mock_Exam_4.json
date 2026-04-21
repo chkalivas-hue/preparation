@@ -1,0 +1,304 @@
+{
+  "Questions": [
+    {
+      "Text": "Adaptive project lifecycles, in comparison with predictive project lifecycles, are developed with the intent of:",
+      "Options": [ "Eliminating cost of changes throughout the project’s lifecycle", "Providing agility in responding to change", "Maximizing cost of changes throughout the project’s lifecycle", "Minimizing cost of changes throughout the project’s lifecycle" ],
+      "CorrectIndex": 1,
+      "Explanation": "Adaptive project life cycles, in comparison with predictive project life cycles, are developed with the intent of providing agility in responding to change. [PMBOK 6th edition, Page 74]"
+    },
+    {
+      "Text": "You are building a dam for a state government. Your organization is considered a specialist in dam design and overall management of construction activities. However, your organization lacks resources to execute the earth-works involved. You have subcontracted all the project’s earth-works to a local subcontractor. The quality of the subcontractor’s work is acceptable, but the subcontractor is not conforming to your organization’s health and safety standards. You escalated this to the subcontractor’s project manager, but he turned down your request. The subcontractor’s project manager is of the view that the request is out of the contract’s scope and none of the contract provisions require him to conform to your organization’s standards. You are agitated since you believe health and safety standards are globally accepted, and the contract does not have to explicitly state them. Further, according to the state law, you cannot terminate the contract since the subcontractor has not vio",
+      "Options": [ "Go for judicial arbitration as stated in the contact’s ADR provisions", "Terminate the contract immediately since you will not compromise health and safety standards", "Withhold the subcontractor’s payments to force compliance", "Negotiate a contact amendment with the subcontractor requiring compliance to the standards" ],
+      "CorrectIndex": 3,
+      "Explanation": "Your actions should be legal and legitimate. Termination and withholding payments are illegal options. Further amicable solution is always preferred over arbitration. The best way to deal with this situation to offer a price for compliance to the required standards and amend the contract accordingly. [PMBOK 6th edition, Page 492]"
+    },
+    {
+      "Text": "Which of the following is an output of the Define Activities process?",
+      "Options": [ "Milestone list", "Project schedule activity diagrams", "Resource calendar", "Activity duration estimates" ],
+      "CorrectIndex": 0,
+      "Explanation": "A milestone list is a valid output of the Define Activities process. [PMBOK 6th edition, Page 183]"
+    },
+    {
+      "Text": "A control chart is used to determine whether a process is stable or has predictable performance. When a process is within acceptable limits, the process does not need adjustment. How are these upper and lower control limits determined?",
+      "Options": [ "Statistical calculations", "Variance analysis", "Pareto chart", "ROM estimate" ],
+      "CorrectIndex": 0,
+      "Explanation": "The upper / lower control limits are statistically calculated (normally set at + / - 3 sigma). [PMBOK 6th edition, Page 304]"
+    },
+    {
+      "Text": "Julia is currently assessing her project stakeholders’ engagement levels. During this exercise, she finds she also needs to document an escalation process, which will come in handy in the future. Where does she need to document the project’s escalation process?",
+      "Options": [ "Communications management plan", "Stakeholder engagement plan", "Either the stakeholder engagement plan or the communications management plan", "Both the stakeholder engagement plan and the communications management plan" ],
+      "CorrectIndex": 0,
+      "Explanation": "Although there is a lot of overlap of information between the project communication management and stakeholder engagement plans, the project escalation process is only documented in the communications management plan. [PMBOK 6th edition, Page 377]"
+    },
+    {
+      "Text": "As part of a new project you just started on as project manager, you are assembling your team and discovering that one of the critical pieces of work requires a specialist from one of the functional departments. However, you are aware the functional manager may be reluctant to assign that resource to your project since your project is not a high-profile one. Which of the following techniques will you need to apply?",
+      "Options": [ "Acquisition", "Coercion", "Politics", "Negotiation" ],
+      "CorrectIndex": 3,
+      "Explanation": "The correct response is Negotiation. The project management team may need to negotiate with functional managers to ensure that the team receives appropriately competent staff in the required time frame. [PMBOK 6th edition, Page 332]"
+    },
+    {
+      "Text": "The Cost Management Plan is an output of the Plan Cost Management process. This plan is then integrated with other project plans in which of these processes?",
+      "Options": [ "Develop Project Management Plan", "Monitor and Control Project Work", "Perform Integrated Change Control", "Direct and Manage Project Work" ],
+      "CorrectIndex": 0,
+      "Explanation": "The cost management plan is a component of the project management plan. Once the cost management plan is developed, it is integrated with the project management plan during the Develop Project Management Plan process. [PMBOK 6th edition, Page 82]"
+    },
+    {
+      "Text": "You are building a mile-long bridge on a T&M contract. During the excavation activity, you learned some telephone cables are crossing the alignment where you have to construct the bridge. You need to relocate these telephone cables, but there is no provision of such an activity in the contract. Further, the relocation of the cables is a costly task, and you need to do a lot of government paperwork, as well. You requested an amendment in the contract, but the buyer rejected it. Despite many efforts, you both could not resolve this issue. What should you do next?",
+      "Options": [ "Terminate the contract following the termination procedures mentioned in the contract.", "File a judicial petition in accordance with the state’s law.", "Seek arbitration following the ADR procedures in the contract.", "Relocate the cables at your own expense since the contract does not cover this activity." ],
+      "CorrectIndex": 2,
+      "Explanation": "In this scenario there has been an increase in the scope of works. Since the contract doesn’t accommodate this, the contractor rightfully requested for an amendment. However, since both parties cannot settle this amicably, the next step is to seek arbitration. [PMBOK 6th edition, Page 498]"
+    },
+    {
+      "Text": "The Plan-Do-Check-Act (PDCA) cycle as the basis for quality improvement is usually attributed to:",
+      "Options": [ "Deming", "Crosby", "Juran", "Pareto" ],
+      "CorrectIndex": 0,
+      "Explanation": "The plan-do-check-act (PDCA) cycle was defined by Shewhart and later modified by Deming. [PMBOK 6th edition, Page 275]"
+    },
+    {
+      "Text": "In regards to WBS, which of the following is the correct way to decompose the project scope?",
+      "Options": [ "Total scope -> planning package -> control account -> work package", "Total scope -> control account -> work package -> planning package", "Total scope -> control account -> planning package -> work package", "Total scope -> Work package -> control account -> planning package" ],
+      "CorrectIndex": 2,
+      "Explanation": "A planning package is a work breakdown structure component below the control account and above the work package with known work content but without detailed schedule activities. [PMBOK 6th edition, Page 161]"
+    },
+    {
+      "Text": "A ______ is a collection of projects or programs grouped together for strategic business needs.",
+      "Options": [ "Portfolio", "Management System", "Enterprise", "Array" ],
+      "CorrectIndex": 0,
+      "Explanation": "A portfolio is a collection of projects or programs. It helps facilitate efficient management. [PMBOK 6th Edition, Page 11]"
+    },
+    {
+      "Text": "In a Finish-to-Start relationship between predecessor and successor activities, a project manager decides to schedule a successor activity five days before its predecessor is complete. This is accomplished by providing five days of:",
+      "Options": [ "Lag", "Load", "Fast-tracking", "Lead" ],
+      "CorrectIndex": 3,
+      "Explanation": "A lead allows an early start of the successor activity. [PMBOK 6th edition, Page 192]"
+    },
+    {
+      "Text": "You are carrying out a project for an external customer. Most of the project’s scope of work is outsourced and distributed among many subcontractors. What would be the role of the Direct and Manage Project Work process in this scenario?",
+      "Options": [ "Inspect and verify the adequacy of the seller’s product", "Authorize the seller’s work at the appropriate time", "Assure that the changes are properly approved and communicated", "The Direct and Manage Project Work process will become redundant in this case" ],
+      "CorrectIndex": 1,
+      "Explanation": "The role of the Direct and Manage Project Work will be to authorize the seller’s work at the appropriate time. Inspection and verification of the seller’s work will be handled by the Control Quality process and the change management will be handled by the Perform Integrated Change Control process. [PMBOK 6th edition, Page 90]"
+    },
+    {
+      "Text": "Which of the following inaccurately describes a prototype?",
+      "Options": [ "A prototype is tangible and allows stakeholders to fine-tune their expectations.", "Requirements from a prototype are usually insufficient to move to the design phase.", "Prototypes support the concept of progressive elaboration.", "A prototype is a working model of the expected product." ],
+      "CorrectIndex": 1,
+      "Explanation": "Prototypes usually go through multiple feedback cycles after which the requirements obtained from the prototype are sufficiently complete to move to a design or build phase. [PMBOK 6th edition, Page 147]"
+    },
+    {
+      "Text": "Key project stakeholders can significantly influence a project in many ways. During which stage of the project do these stakeholders have the maximum ability to influence a project?",
+      "Options": [ "Planning", "Initiating", "Executing", "Monitoring & Controlling" ],
+      "CorrectIndex": 1,
+      "Explanation": "The stakeholder influence is highest at the start of the project and decreases as the project progresses towards completion. This is due to the fact that risk and uncertainty are greatest at the start of the project. [PMBOK 6th edition, Page 549]"
+    },
+    {
+      "Text": "Mary has just assigned Thomas as project manager of an upcoming railway construction project. She hands an approved project charter to Thomas. Once Thomas thoroughly reviews the project charter, what should he do next?",
+      "Options": [ "Review the charter once again since one thorough review is never enough", "Kick-start the Develop Project Management Plan process", "Add the project charter to the organizational lessons-learned archive", "Distribute the charter to all key project stakeholders and ensure common understanding" ],
+      "CorrectIndex": 3,
+      "Explanation": "Upon the receipt of the approved project charter, it is the project manager’s responsibility to inform all key stakeholders of the approved project charter and to ensure common understanding of the key deliverables, milestones, and their roles and responsibilities. [PMI best practice]"
+    },
+    {
+      "Text": "Which of these is not a data gathering technique used in the Identify Risks process?",
+      "Options": [ "Interviewing", "Checklists", "Brainstorming", "Delta technique" ],
+      "CorrectIndex": 3,
+      "Explanation": "Delta technique is not a valid type of data gathering technique. [PMBOK 6th edition, Page 409]"
+    },
+    {
+      "Text": "The organization’s strategy provides a strategic direction and performance parameters for identifying, selecting, and delivering the right mix of projects. If it is determined that some of the CEO’s favorite projects do not fully align with the business objective, the PMO manager must:",
+      "Options": [ "Recommendation a realignment of the strategy", "Terminate the project", "Recommend a realignment of the project objectives", "Honor the CEO’s desires and execute the project" ],
+      "CorrectIndex": 2,
+      "Explanation": "The project manager must make a recommendation to realign the project objectives with the organizational strategy since value to the business can only be delivered when projects remain aligned with the strategic direction of the organization. [PMBOK 6th edition, Page 14]"
+    },
+    {
+      "Text": "Which of the following is not a tool or technique of the Acquire Resources process?",
+      "Options": [ "Negotiation", "Multi-criteria decision analysis", "Pre-assignment", "Conflict management" ],
+      "CorrectIndex": 3,
+      "Explanation": "Conflict management is not a tool and technique of the Acquire Resources process. [PMBOK 6th edition, Page 328]"
+    },
+    {
+      "Text": "All requested changes to a contract go through Contract Change Control Systems of both parties. The Contract Change Control system documents all requested changes for future reference. However, requested but unresolved changes might not make it up to either party’s Change Control Systems. If you are contesting a dispute, where can you find a record of such requested changes?",
+      "Options": [ "Procurement management plan", "Project management plan", "Project correspondence", "Approved change requests log" ],
+      "CorrectIndex": 2,
+      "Explanation": "If a contract change request is rejected early in the process, it might not make it up to either party’s change control system and hence might not get documented as a rejected change request. You can obtain a record of such requested changes in your project’s correspondence. [PMBOK 6th edition, Pages 496, 499]"
+    },
+    {
+      "Text": "While the five process groups are usually completed in order, they often overlap with each other throughout the project. Which two process groups usually do not overlap during the course of the project?",
+      "Options": [ "Initiating and Closing", "Initiating and Executing", "Initiating and Monitoring and Control", "Planning and Closing" ],
+      "CorrectIndex": 0,
+      "Explanation": "Throughout the project, the different process groups are often conducted at the same time except for the initiating and closing groups, which are separated by the other three groups. [PMBOK 6th edition, Page 23, 555]"
+    },
+    {
+      "Text": "Which of the following is the correct logical sequence of the five process groups?",
+      "Options": [ "Planning, Monitoring and Controlling, Initiating, Executing, Closing", "Planning, Initiating, Executing, Monitoring and Controlling, Closing", "Initiating, Monitoring and Controlling, Planning, Executing, Closing", "Initiating, Planning, Executing, Monitoring and Controlling, Closing" ],
+      "CorrectIndex": 3,
+      "Explanation": "The logical sequence of the five process groups is: Initiating, Planning, Executing, Monitoring and Controlling, and Closing. [PMBOK 6th edition, Page 23]"
+    },
+    {
+      "Text": "You are currently managing an urban development project for a municipal authority. You and your team are managing the project and have outsourced most of the project work to specialist contractors. All the contracts awarded were FFP contracts. The project is almost 50 percent complete, and most of the contractors have requested amendments to their contacts. Work specifications were not clear at the time of contract awards, and as a result, new work requirements have come up. What is your lesson learned?",
+      "Options": [ "Never award FFP contracts in the future since they usually result in disputes and contests", "Cost-plus contracts are ideal types of contracts for construction projects", "Do not award FFP contracts unless the scope of work and specifications are precisely articulated.", "Good and credible contractors were not selected for the project at the time of award" ],
+      "CorrectIndex": 2,
+      "Explanation": "FFP contracts should not be awarded unless the scope of work and specifications are precisely articulated and documented. [PMBOK 6th edition, Page 471]"
+    },
+    {
+      "Text": "You have met with your project sponsor who told you that you must complete the project by the end of the year, no exceptions. This should be included in the project scope statement as a:",
+      "Options": [ "Project Constraint", "Project Boundary", "Project Acceptance Criteria", "Project Assumption" ],
+      "CorrectIndex": 0,
+      "Explanation": "An imposed deadline or milestone is an example of a constraint. Such project constraints are documented in the scope statement. [PMBOK 6th edition, Page 154]"
+    },
+    {
+      "Text": "Along with the project communications management plan, work performance reports are vital inputs to the Manage Communications process. Where do these work performance reports come from?",
+      "Options": [ "Project integration management process", "All monitoring and controlling processes", "Plan Communications Management processes", "Organizational process assets" ],
+      "CorrectIndex": 0,
+      "Explanation": "The Monitor and Control Project Work, a process form the project integration management knowledge area, produces work performance reports. [PMBOK 6th edition, Page 380]"
+    },
+    {
+      "Text": "On-demand scheduling is one of the techniques used in agile environments. This type of scheduling ______ work from a backlog as resources become available.",
+      "Options": [ "Extrapolates", "Predicts", "Pulls", "Pushes" ],
+      "CorrectIndex": 2,
+      "Explanation": "On-demand scheduling is one of the techniques used in agile projects. This type of scheduling “pulls” work from a backlog as resources become available. [PMBOK 6th edition, Page 177]"
+    },
+    {
+      "Text": "Lee is the project manager of a project, and he is planning responses to a set of risks. As a direct result of implementing these risk responses, he anticipates certain other risks to arise. These are:",
+      "Options": [ "Secondary risks", "Primary risks", "Planned risks", "Workaround" ],
+      "CorrectIndex": 0,
+      "Explanation": "Secondary risks are those that arise as a direct result of implementing a risk response. [PMBOK 6th edition, Page 439]"
+    },
+    {
+      "Text": "Linda is currently drafting her project stakeholder management plan. Since she is a new hire, she is not aware of the company’s policies and procedures. If she wants to know more about the company’s general issues management procedures, where must she look?",
+      "Options": [ "Project charter", "Scope statement", "Organizational process assets", "Issue register" ],
+      "CorrectIndex": 2,
+      "Explanation": "Linda is looking for company’s policies and procedures. These are part of the organizational process assets. [PMBOK 6th edition, Page 39]"
+    },
+    {
+      "Text": "A tool that provides a visual representation of human resource allocation to a project, number of working hours, and availability on the project is a:",
+      "Options": [ "Resource Histogram", "Staff release plan", "Resource Breakdown Structure (RBS)", "Organization Breakdown Structure (OBS)" ],
+      "CorrectIndex": 0,
+      "Explanation": "The correct response is Resource Histogram. This bar chart illustrates the number of hours that a project, department or project team will be working each week or month over the course of the project. [PMBOK 6th edition, Pages 220, 719]"
+    },
+    {
+      "Text": "In projects following adaptive lifecycles, what are the two critical components of iterative scheduling with a product backlog?",
+      "Options": [ "User epics and time-bound accepted deliverables", "User stories and time-boxed periods of work", "Work packages and critical path", "Scope management plan and a detailed WBS" ],
+      "CorrectIndex": 1,
+      "Explanation": "In adaptive life cycles, the requirements are documented in user stories that are then prioritized and refined. The product features are developed using time-boxed periods of work. [PMBOK 6th edition, Page 177]"
+    },
+    {
+      "Text": "Three strategies that typically deal with negative risks or threats are:",
+      "Options": [ "Enhance, Share, and Accept", "Transfer, Exploit, and Accept", "Avoid, Transfer, and Exploit", "Avoid, Transfer, and Mitigate" ],
+      "CorrectIndex": 3,
+      "Explanation": "Five negative risk management strategies are: Escalate, Avoid, Transfer, Mitigate, and Accept. [PMBOK 6th edition, Pages 442, 443]"
+    },
+    {
+      "Text": "Which of the following is least likely to be a project?",
+      "Options": [ "Regular updates of the company website", "Responding to a contract solicitation", "Running a campaign for a political office", "An endeavor that lasts for 10 years" ],
+      "CorrectIndex": 0,
+      "Explanation": "Regular updates of the company website constitute an operational activity and are clearly not a project. [PMBOK 6th edition, Page 4]"
+    },
+    {
+      "Text": "Which of the Project Schedule Management processes involves identifying and documenting dependencies among schedule activities?",
+      "Options": [ "Sequence Activities", "Define Activities", "Develop Schedule", "Control Schedule" ],
+      "CorrectIndex": 0,
+      "Explanation": "Sequence Activities is the process of identifying and documenting dependencies among schedule activities. [PMBOK 6th edition, Page 187]"
+    },
+    {
+      "Text": "What does it mean if the Earned Value is equal to Actual Cost?",
+      "Options": [ "Schedule Variance Index is 1", "Project is on budget and on schedule", "There is no cost variance", "There is no schedule variance" ],
+      "CorrectIndex": 2,
+      "Explanation": "CV = EV - AC. If the EV is equal to the AC, then there is no cost variance on the project. [PMBOK 6th edition, Page 262]"
+    },
+    {
+      "Text": "Although it is highly recommended that lessons learned are captured and documented throughout the project lifecycle, lessons learned are finalized during project closure. At this stage, responses to high-level questions may be gathered and documented. Which of the following is not an appropriate question to ask at this stage?",
+      "Options": [ "What were the top significant project successes?", "How relevant the historic lessons learned were to this project during execution?", "What obstacles or unanticipated circumstances made it difficult to complete the project?", "What should have been done differently in this project?" ],
+      "CorrectIndex": 1,
+      "Explanation": "Lessons learned are extremely useful as they can save a lot of rework and mitigate a number of risks on future projects. However, validating the relevance to historic lessons learned to the project being closed do not add any value. [PMI best practice]"
+    },
+    {
+      "Text": "Robert is managing a construction project. The project's client is responsible for the design, while Robert’s organization is responsible for the construction. There has been a 45-day delay on a couple of major structure designs. This delay can only be recovered through crashing and will cost $2 million in addition to the approved budget. Robert prepares a detailed report and emails it to the client. In this scenario, Robert’s email to the client is an example of:",
+      "Options": [ "Informal unofficial communication", "Formal unofficial communication", "Informal official communication", "Formal official communication" ],
+      "CorrectIndex": 0,
+      "Explanation": "According to the PMBOK guide, all email correspondence is informal. Although the communication was between two officials, it cannot be considered official unless the information is transmitted formally. [PMBOK 6th edition, Page 361]"
+    },
+    {
+      "Text": "You are the project manager managing a project to design a print head for dot matrix printers. In order to determine ideal settings for print quality, the quality manager of the company suggests trying out various scenarios for printing by varying certain parameters on the print head. Identifying such variables which influence the product or process under development is called:",
+      "Options": [ "Benchmarking", "Design of Experiments", "Statistical Sampling", "Brainstorming" ],
+      "CorrectIndex": 1,
+      "Explanation": "The correct response is Design of Experiments. DOE aims at predicting the outcome by introducing a change of the inputs/preconditions. [PMBOK 6th edition, Page 290]"
+    },
+    {
+      "Text": "Although the business value is unique to each organization, each organization strives to attain business value for its activities. Which of the following does NOT create value for an organization?",
+      "Options": [ "Escalation of commitment on projects involving significant sunk cost", "Effective management of ongoing operations", "Strategic alignment of project objectives", "Successful management of nonprofit business-related activities" ],
+      "CorrectIndex": 0,
+      "Explanation": "Escalation of commitment on projects involving significant sunk cost does not create any value for an organization. [PMBOK 6th edition, Page 7]"
+    },
+    {
+      "Text": "You are managing a complex submarine causeway construction project. When you started the project, the scope of work was not clear and was based on a rather high-level estimate. Now that you are in the middle of the project, more information has become available. As a result, you now need to change some of the key subcontracts on the project. Which of the following will guide you through the change process?",
+      "Options": [ "Change control terms of the individual subcontracts", "Project management plan’s change control procedures", "Organizational process assets", "Supplier’s contract administrator" ],
+      "CorrectIndex": 0,
+      "Explanation": "Your project’s change control procedures are internal to your project, that is, the scope of work directly under your project’s control. Specific contract change control procedures can be found in the individual subcontracts that can be different for each subcontract. [PMBOK 6th edition, Page 489]"
+    },
+    {
+      "Text": "Cause-and-Effect diagrams are used to illustrate how various factors might link to potential problems or effects. They are also called:",
+      "Options": [ "Taguchi diagrams", "Pareto diagrams", "Ishikawa diagrams", "Process diagrams" ],
+      "CorrectIndex": 2,
+      "Explanation": "Cause and Effect diagrams are also called Ishikawa diagrams. [PMBOK 6th edition, Page 293]"
+    },
+    {
+      "Text": "The purpose of lessons learned is to bring together any insights gained during a project that can be usefully applied on future projects. When should a project manager ideally commence this activity?",
+      "Options": [ "At the start of project planning", "At the start of project execution", "During the project closure", "From project kickoff meeting" ],
+      "CorrectIndex": 3,
+      "Explanation": "Manage Project Knowledge is the process of using existing knowledge and creating new knowledge to achieve the project's objectives and contribute to organizational learning. This process is performed throughout the project. [PMBOK 6th edition, Page 98]"
+    },
+    {
+      "Text": "Which of the following analytical techniques evaluates investment potential considering time-value of money?",
+      "Options": [ "Pareto analysis", "Discounted cash flow", "Earned value management", "Monte Carlo technique" ],
+      "CorrectIndex": 1,
+      "Explanation": "Discounted cash flow analysis uses future free cash flow projections and discounts them to arrive at a present value estimate, which is used to evaluate the potential for investment. [PMBOK 6th edition, Page 473]"
+    },
+    {
+      "Text": "Which of the following is not true about the WBS?",
+      "Options": [ "The project team must be involved in developing the WBS.", "The WBS must represent all product and project work.", "WBS should focus on activities rather than deliverables.", "WBS is usually represented in a hierarchical fashion." ],
+      "CorrectIndex": 2,
+      "Explanation": "The WBS puts a greater focus on deliverables than on actual activities. [PMBOK 6th edition, Page 156]"
+    },
+    {
+      "Text": "Which of the following is accurate regarding the Estimate Activity Resources process?",
+      "Options": [ "It produces project resource calendars as the output.", "It determines dependencies that may require a lead or lag to define the relationship.", "This process is coordinated independent of the Estimate Cost process.", "It involves determining what and how many resources to use." ],
+      "CorrectIndex": 3,
+      "Explanation": "The Estimate Activity Resources process determines what and how many resources will be used. This process is closely coordinated with the Estimate Costs process. [PMBOK 6th edition, Page 320]"
+    },
+    {
+      "Text": "In a project, Activity A has a duration of four days and begins on the morning of Monday the fourth. The successor Activity, B, has a Finish-to-Start (FS) relationship with A. The Finish-to-Start relationship has two days of lag, and Activity B has a duration of three days. If Saturday and Sunday are non-working days, which of the following statements is true?",
+      "Options": [ "Total elapsed days (completing both activities) is seven days", "Activity B will be completed by the end of the day on Thursday, the 14th", "Activity B will be completed by the end of the day on Friday, the 15th.", "Activity B will be completed by the end of the day on Tuesday, the 12th" ],
+      "CorrectIndex": 1,
+      "Explanation": "Activity A has a duration of 4 days and completes by end of the day on Thursday, 7th. There is a 2-day lag, and since Saturday and Sunday are non-working, Activity B can begin only on Tuesday, 12th. Activity B has a duration of 3 days and completes by end of the day on Thursday, 14th. [PMBOK 6th edition, Page 192]"
+    },
+    {
+      "Text": "Analogous Cost Estimating is which of the following?",
+      "Options": [ "Uses statistical relationship between historical data and other variables", "Generally less accurate", "Bottom-up estimating", "Generally accurate" ],
+      "CorrectIndex": 1,
+      "Explanation": "Analogous cost estimating is usually deemed less accurate than other methods of estimation. [PMBOK 6th edition, Page 200]"
+    },
+    {
+      "Text": "What is the best way to make an accurate forecast of ETC?",
+      "Options": [ "EAC - AC", "BAC – EV", "Manual forecasting of cost of the remaining work.", "(BAC – EV)/CPI" ],
+      "CorrectIndex": 2,
+      "Explanation": "Manual forecasting of costs of remaining work is the most common forecasting approach. It is generally considered the best means of generating an accurate forecast of ETC. [PMBOK 6th edition, Page 264]"
+    },
+    {
+      "Text": "Which of the following is not a valid instance of risk transference?",
+      "Options": [ "Use of a Cost Reimbursable contract", "Warranties", "Fixed Price contracts", "Performance bonds" ],
+      "CorrectIndex": 0,
+      "Explanation": "A cost-reimbursable contract does not transfer risk to the seller; rather, the risk is with the buyer. Risk transference involves shifting the negative impact of a risk, along with the ownership of the response, to a third party. [PMBOK 6th edition, Page 443]"
+    },
+    {
+      "Text": "Under which of the following scenarios would you not use a decision tree?",
+      "Options": [ "When some future scenarios are unknown", "When you need to look at the implications of not choosing certain alternatives", "When the future scenarios are known", "When the outcomes of some of the actions are uncertain" ],
+      "CorrectIndex": 2,
+      "Explanation": "You would use a decision tree when uncertainty and unknowns exist regarding future scenarios and their outcomes, not when future scenarios are known. [PMBOK 6th edition, Page 435]"
+    },
+    {
+      "Text": "You have been assigned as a project manager of a new project to be executed out of New York. However, you determine the project requires a Global Positioning Systems expert who is not available within the company in New York. After doing a little checking, you determine that the company has an expert based in London who is suitable for the project. However, the London-based employee is not willing to relocate to New York for the project. In such a case:",
+      "Options": [ "Write to the manager of the London-based employee and inform him that the employee needs to be convinced to relocate to New York due to project requirements.", "You look at the option of moving ahead with the project by using a virtual team.", "Manage the project without the key resource and flag this as a risk.", "Co-location of resources is a key factor for the success of projects. As per PMI guidelines, you cannot proceed with the project since the resources are not available in New York." ],
+      "CorrectIndex": 1,
+      "Explanation": "The use of virtual teams has created possibilities of having teams in different global locations who are working towards a common goal. The availability of email and videoconferencing has made such teams possible. [PMBOK 6th edition, Page 311]"
+    }
+  ]
+}

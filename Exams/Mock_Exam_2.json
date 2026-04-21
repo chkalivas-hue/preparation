@@ -1,0 +1,310 @@
+  {
+    "Questions": [
+      {
+        "Text": "A good project manager always gathers and documents lessons learned throughout the project lifecycle rather than delaying the effort until the project closure. Which of the following is not a risk associated with postponing the lessons-learned gathering effort until the very end of the project?",
+        "Options": [ "The project manager has fewer resources available.", "The project’s earned value decreases.", "Not all lessons learned might get captured.", "The effort might seem boring and non-value-adding." ],
+        "CorrectIndex": 1,
+        "Explanation": "The risk of delaying the lessons learned gathering exercise till the very end of the project is that the gathered information might not be complete because the project manager will not have the whole team available rather than those working on the closing phase. Further, this exercise might seem boring and bureaucratic effort."
+      },
+      {
+        "Text": "Laurence is the PMO manager at ANZ Company. The CEO of the company asked Laurence to review the business requirements and develop the current year’s capital management plan. The capital management plan will outline the key business deliverables (capital projects) and will go to the board for final approval. Which of the following organizational artifacts should Laurence review to analyze the business requirements for the current fiscal year?",
+        "Options": [ "Lessons Learned", "Capital budget for the current year", "Organizational Process Assets", "Organizational Strategy" ],
+        "CorrectIndex": 3,
+        "Explanation": "Capital planning is the process of budgeting resources for the future of an organization's long term plans. Capital projects can only achieve the organizational goals when they are aligned with the organization’s strategy."
+      },
+      {
+        "Text": "Maintaining good supplier relationships should be important to all project managers. A good buyer-seller relationship is a partnership that results in a win-win situation that nurtures both parties. Which of the following is both a short- and long-term benefit of treating a supplier with courtesy, honesty, and fairness?",
+        "Options": [ "There is no need to have formal contracts in place", "Delivery of quality products and services at the best price", "The buyer can delay the payments without jeopardizing the relationship", "The supplier can charge a price higher than the market price" ],
+        "CorrectIndex": 1,
+        "Explanation": "The benefit of good supplier relationship is delivery of quality products at competitive prices."
+      },
+      {
+        "Text": "James is managing a shopping mall construction project. During the project execution, he learns the project communications management plan is not effective and requires a major update. Which of the following processes will issue a change request for the required update?",
+        "Options": [ "Plan Communications Management", "Manage Communications", "Perform Integrated Change Control", "Monitor Communications" ],
+        "CorrectIndex": 3,
+        "Explanation": "Change request is an output of the Monitor Communications process."
+      },
+      {
+        "Text": "With a growing awareness of so-called unknowable-unknowns, the existence of emergent risk is becoming clear. These are risks that can only be recognized after they have occurred. Emergent risks can be tackled through developing:",
+        "Options": [ "Project resilience", "Project charter", "Project management plan", "Project risk management plan" ],
+        "CorrectIndex": 0,
+        "Explanation": "Emergent risks can be tackled through developing project resilience."
+      },
+      {
+        "Text": "Change control tool selection should be based on the needs of the project stakeholders, including organizational and environmental considerations and/or constraints. Which of the following is not a key change management consideration while selecting an appropriate change control tool for a project?",
+        "Options": [ "Identifying and selecting a change item", "Configuration item verification and audit", "Documenting the change into a proper change request", "Tracking change requests" ],
+        "CorrectIndex": 1,
+        "Explanation": "Configuration item verification and audit is related to configuration management instead of change management."
+      },
+      {
+        "Text": "In general, Perform Qualitative Risk Analysis is:",
+        "Options": [ "Not often completed", "Complete and 100 percent accurate", "In-depth and thorough", "focused on high-priority risks" ],
+        "CorrectIndex": 3,
+        "Explanation": "Perform Qualitative Risk Analysis is quicker than Perform Quantitative Risk Analysis as it focuses on high-priority risks."
+      },
+      {
+        "Text": "As a project manager, you perform various project performance measurements to assess the magnitude of variation. You then attempt to determine the cause and decide whether corrective action is necessary. This is:",
+        "Options": [ "Scope Analysis", "Variance Analysis", "Performance Reporting", "Configuration Management" ],
+        "CorrectIndex": 1,
+        "Explanation": "This is known as Variance Analysis."
+      },
+      {
+        "Text": "Two efficiency indicators that reflect the cost and schedule performance of a project are:",
+        "Options": [ "Cost Projection Index (CPI) and Schedule Projection Index (SPI)", "Cost Performance Index (CPI) and Schedule Performance Index (SPI)", "Actual Cost (AC) and Planned Value (PV)", "Cost Pricing Index (CPI) and Schedule Performance Index (SPI)" ],
+        "CorrectIndex": 1,
+        "Explanation": "The Cost Performance Index (CPI) and the Schedule Performance Index (SPI) are two efficiency indicators that reflect the cost and schedule performance of the project."
+      },
+      {
+        "Text": "In projects with adaptive life cycles, many of the project management processes are repeated in each iteration of the project except:",
+        "Options": [ "Develop Project Charter", "Collect Requirements", "Define Scope", "Create WBS" ],
+        "CorrectIndex": 0,
+        "Explanation": "In projects with adaptive life cycles, many of the project management processes are repeated in each iteration of the project except the Develop Project Charter process."
+      },
+      {
+        "Text": "If you want to compress a project schedule, what are two of the recommended alternatives to consider?",
+        "Options": [ "Fast Tracking and Schedule Network Analysis", "Crashing and Fast Tracking", "Resource Levelling and What-If Scenario Analysis", "Crashing and Schedule Network Analysis" ],
+        "CorrectIndex": 1,
+        "Explanation": "Crashing and fast tracking can compress the project's schedule when necessary."
+      },
+      {
+        "Text": "Large organizations typically manage a wide range of projects; from small projects to large initiatives requiring long-term commitments. Which of the following factors can be used in scaling such projects:",
+        "Options": [ "Team size, geographical distribution, regulatory compliance, organizational complexity, technical complexity, and funds availability.", "Team size, geographical distribution, regulatory compliance and organizational complexity.", "Team size, geographical distribution and regulatory compliance.", "Team size, geographical distribution, regulatory compliance, organizational complexity and technical complexity." ],
+        "CorrectIndex": 3,
+        "Explanation": "Scaling factors such as team size, geographical distribution, regulatory compliance, organizational complexity, and technical complexity."
+      },
+      {
+        "Text": "Which of the following is not a part of the data gathering tools used in Control Quality process?",
+        "Options": [ "Checklists", "Control Chart", "Check sheets", "Statistical sampling" ],
+        "CorrectIndex": 1,
+        "Explanation": "Control chart is a monitoring tool, while the rest are data gathering tools."
+      },
+      {
+        "Text": "Measuring the quality of items in a sample on a pass/fail basis is:",
+        "Options": [ "Biased sampling", "Variable sampling", "Stratified sampling", "Attribute sampling" ],
+        "CorrectIndex": 3,
+        "Explanation": "Attribute sampling measures the quality of items in a sample on a pass/fail basis."
+      },
+      {
+        "Text": "George is managing a telecommunication network deployment project. Most of the key project stakeholders are happy with the project so far. However, George has some potential concerns that might become issues in the near future. The next project status update meeting with the key stakeholders is the next day. What should George do?",
+        "Options": [ "Wait until the concerns become issues", "Discuss these concerns with the key stakeholders", "Do not report the concerns in the next meeting but try to mitigate these concerns", "Briefly discuss these concerns in the next meeting but do not make them look significant" ],
+        "CorrectIndex": 1,
+        "Explanation": "Effective stakeholder management requires addressing potential concerns as soon as possible."
+      },
+      {
+        "Text": "On-demand scheduling is one of the techniques used in agile projects. This type of scheduling relies on:",
+        "Options": [ "A schedule that was developed previously for the development of the project increments.", "Discretionary dependencies that cannot be changed by the project team.", "Skills of the project manager rather than the skills of the team.", "A backlog or intermediate queue of work to be done." ],
+        "CorrectIndex": 3,
+        "Explanation": "On-demand scheduling relies on pulling work from a backlog or intermediate queue."
+      },
+      {
+        "Text": "Midway through a project, a project manager determined the project was running far behind schedule. If the project manager needs to shorten the project schedule without changing the project scope, which of the following schedule compression techniques could he use?",
+        "Options": [ "Crashing", "Reserve Analysis", "Forecasting", "Last Tracking" ],
+        "CorrectIndex": 0,
+        "Explanation": "Crashing is a technique that can be applied to compress the project schedule without changing the project scope."
+      },
+      {
+        "Text": "At the end of a project, what will your schedule variance be equal to?",
+        "Options": [ "Zero", "Equal to the total PV", "One", "Equal to the total EV" ],
+        "CorrectIndex": 0,
+        "Explanation": "At the end of the project, all planned values should be earned, and the difference should be zero."
+      },
+      {
+        "Text": "How does time-boxing help minimize scope creep in agile projects?",
+        "Options": [ "It forces the team to create project WBS using the user stories.", "It forces the sponsor to allocate a Scrum master who helps in eliminating scope creep.", "It forces the team to process essential features first, then other features.", "It forces the team to convert the user stories into epics." ],
+        "CorrectIndex": 2,
+        "Explanation": "Time-boxing helps to minimize scope creep as it forces the teams to process essential features first."
+      },
+      {
+        "Text": "A good project manager knows the value of effective stakeholder management. What is the ultimate goal of effective stakeholder management?",
+        "Options": [ "Stakeholder engagement", "Project success", "Stakeholder satisfaction", "Meeting project objectives" ],
+        "CorrectIndex": 1,
+        "Explanation": "The ultimate goal is the project’s success."
+      },
+      {
+        "Text": "While analyzing a project, the project manager calculated the ratio of the Earned Value (EV) to the Actual Costs (AC) and obtained a value of 1.2. The project manager decided this was an unfavorable condition for the project and decided to take corrective action. What is your view?",
+        "Options": [ "The project manager is correct. The ratio of EV to AC is the Cost Performance Index and a ratio greater than 1 is unfavorable to the project", "The project manager is not correct. The ratio of EV to AC is the Cost Variance and a ratio greater than 1 is favorable to the project.", "The project manager is not correct. The ratio of EV to AC is the Cost Performance Index and a ratio greater than 1 is favorable to the project.", "The project manager is correct. The ratio of EV to AC is the Cost Variance and a ratio greater than 1 is unfavorable to the project." ],
+        "CorrectIndex": 2,
+        "Explanation": "Cost Performance Index (CPI) is the ratio of EV to AC. A value greater than one is favorable."
+      },
+      {
+        "Text": "Which of these is not an established Estimate Activity Durations technique?",
+        "Options": [ "Three Point Estimating", "Parametric Estimating", "Analogous Estimating", "Critical Path Estimation" ],
+        "CorrectIndex": 3,
+        "Explanation": "Critical Path Estimation evaluates the whole project schedule, not an activity duration estimation technique."
+      },
+      {
+        "Text": "If you are working on a project where there is no definite detailed scope, but there are similar projects in the past, what is the correct Estimate Activity Durations tool to use?",
+        "Options": [ "Analogous Estimating", "Parametric Estimating", "Critical Path Estimation", "Three Point Estimating" ],
+        "CorrectIndex": 0,
+        "Explanation": "Analogous estimation relies on comparing a project to previous projects."
+      },
+      {
+        "Text": "As project manager, you would like to show the relationship between two variables to help your project team understand the quality impact better. Which tool should you use?",
+        "Options": [ "Scatter Diagram", "Run Chart", "Fishbone Diagram", "Pareto Chart" ],
+        "CorrectIndex": 0,
+        "Explanation": "A scatter diagram plots several occurrences of two variables to show relationship."
+      },
+      {
+        "Text": "A project manager feels the need of updating one of the project supplier contracts to meet the project’s current needs. However, before any change requests, the project manager must know the right process to incorporate a change into this specific contract. What should he do first?",
+        "Options": [ "Issue the change request and get it approved through Integrated Change Control process", "Update the project procurements management plan", "Review the change request handling procedure as documented in the contract itself", "Review alternative dispute resolution (ADR) procedures in the contract" ],
+        "CorrectIndex": 2,
+        "Explanation": "The project manager must first review the change request handling procedure specific to the contract."
+      },
+      {
+        "Text": "The objective of a transformation project is to move an organization from one state to another state. The desired result of the change driven by the project is described as the:",
+        "Options": [ "Good state", "Future state", "Happy state", "Transition state" ],
+        "CorrectIndex": 1,
+        "Explanation": "The desired result of the change derived by the project is described as the future state."
+      },
+      {
+        "Text": "The term Progressive Elaboration incorrectly represents which of the following?",
+        "Options": [ "Changes to project scope", "Rolling wave planning", "Detailing out the product requirements developed during the initiation process.", "Production of fabrication and construction drawings from the design drawings for a chemical plant." ],
+        "CorrectIndex": 0,
+        "Explanation": "Changes to scope (uncontrolled) are called scope creep."
+      },
+      {
+        "Text": "Which document describes the project's deliverables and the work required to create those deliverables?",
+        "Options": [ "Project authorization document", "Project scope statement", "Project scope management plan", "Project charter" ],
+        "CorrectIndex": 1,
+        "Explanation": "The project scope statement describes the project's deliverables in detail."
+      },
+      {
+        "Text": "During a presentation to management, you want to display the project schedule with only the key deliverables displayed. What is the correct tool for this purpose?",
+        "Options": [ "Project schedule network diagram", "Critical path network", "Milestone chart", "Critical chain diagram" ],
+        "CorrectIndex": 2,
+        "Explanation": "A milestone chart displays only the key deliverables."
+      },
+      {
+        "Text": "Henry is the project manager for a process improvement project. Henry is a recently hired Six Sigma expert. David is the process owner of the process Henry must optimize. During the project kick-start meeting with the project sponsor, David said he supports all continuous improvement efforts. However, David is unaware of the Six Sigma technique and feels threatened by the newly hired expert, and as a result, is blocking Henry’s ideas. What is David’s current engagement level with the project?",
+        "Options": [ "Unaware", "Supportive", "Resistant", "Neutral" ],
+        "CorrectIndex": 2,
+        "Explanation": "David is blocking Henry’s idea, so he is resistant."
+      },
+      {
+        "Text": "Which of these items are important to address when determining each person's role in the project team?",
+        "Options": [ "Role, authority, responsibility, and competency", "Role, responsibility, and competency", "Role and responsibility", "Role, authority, and competency" ],
+        "CorrectIndex": 0,
+        "Explanation": "Important factors are Role, authority, responsibility, and competency."
+      },
+      {
+        "Text": "If you want to reduce the number of quality inspections and reduce the cost of quality control for your project, which technique should you use?",
+        "Options": [ "Run Chart", "Defect Repair Review", "Statistical Sampling", "Pareto Chart" ],
+        "CorrectIndex": 2,
+        "Explanation": "Statistical sampling ensures likelihood of quality while saving money."
+      },
+      {
+        "Text": "Performance reports are produced during the Control Procurements process by evaluating work performance data against the agreement requirements. Which of the following is the prime objective of producing such reports?",
+        "Options": [ "Performance reporting is a good project management practice and must be carried out on all projects.", "Performance reports are produced so they can be added to lessons-learned database, and the future project might benefit.", "Performance reports document the analysis of the project manager and does not require supplier’s participation.", "Providing management with information about how effectively the seller is achieving the contractual objectives." ],
+        "CorrectIndex": 3,
+        "Explanation": "Prime objective is providing information about how effectively the seller is achieving contractual objectives."
+      },
+      {
+        "Text": "Project managers need to be aware of Student Syndrome. What does that mean?",
+        "Options": [ "People go through a learning curve whenever they are engaged in a project.", "People who consider themselves students of project management tend to apply PMBOK principles better.", "People start to apply themselves only at the last possible moment before the deadline.", "People who undertake studies during their professional careers tend to be better project managers." ],
+        "CorrectIndex": 2,
+        "Explanation": "Student Syndrome – or procrastination – refers to people applying themselves only at the last possible moment."
+      },
+      {
+        "Text": "A project manager must stress the importance of collecting and documenting lessons learned through the project lifecycle. One good way to collect this information is during weekly status meetings. Usually, weekly status meetings, if not managed properly, end up in fire fighting since most of the time, attention goes to the burning issues. How can you ensure that the lessons-learned gathering does not get missed in such a situation?",
+        "Options": [ "Add a lessons-learned agenda item.", "Record the minutes of the meeting.", "Do not discuss burning issues in weekly status meetings.", "Replace status update meetings with one-on-one meetings with the team members." ],
+        "CorrectIndex": 0,
+        "Explanation": "Add a lessons-learned agenda item to the meeting."
+      },
+      {
+        "Text": "Where would you find a detailed list and description of specific project assumptions associated with the project?",
+        "Options": [ "Project charter", "Project scope statement", "Project configuration document", "Change management plan" ],
+        "CorrectIndex": 1,
+        "Explanation": "The Project scope statement lists and describes specific project assumptions."
+      },
+      {
+        "Text": "A number of teams are developing an enterprise system using the agile approach for product development. Which of the following is a major risk item for such a complex project being performed in an agile environment?",
+        "Options": [ "Number of interconnected dependencies between the features developed by different teams.", "Number and size of teams developing the larger features.", "Scope definition and freezing early during the planning phase.", "Emphasis on schedule control over risk management." ],
+        "CorrectIndex": 0,
+        "Explanation": "Interconnected dependencies between features is a major risk."
+      },
+      {
+        "Text": "Which of these is not a data analysis technique used during quantitative risk analysis?",
+        "Options": [ "Tornado diagram", "Decision tree", "RACI chart", "Influence diagrams" ],
+        "CorrectIndex": 2,
+        "Explanation": "RACI chart is not a quantitative risk analysis technique."
+      },
+      {
+        "Text": "Which of the following is a tool or technique of the Develop Team process?",
+        "Options": [ "Organizational charts", "Co-location", "Acquisition", "Influence diagrams" ],
+        "CorrectIndex": 1,
+        "Explanation": "Co-location is a tool and technique for the Develop Team process."
+      },
+      {
+        "Text": "A hierarchical structure of project resources organized by category and resource type, used in planning, managing and controlling project work, is:",
+        "Options": [ "Team structure", "Resource Pool", "Organization Breakdown Structure", "Resource Breakdown Structure" ],
+        "CorrectIndex": 3,
+        "Explanation": "Resource breakdown structure (RBS) is a hierarchical list of resources."
+      },
+      {
+        "Text": "A project post-mortem is an activity, usually performed at the project’s conclusion, to determine and analyze a project’s outcome which also includes a lessons-learned gathering exercise. Project post-mortems help to mitigate future risks and are often a key component of, and ongoing precursor to, effective risk management. Which of the following is a terrible mistake when collecting lessons learned?",
+        "Options": [ "Documenting both the success stories and the failed attempts", "Calculating project’s final statistics", "Focusing purely on the negatives and analyzing failures", "Conducting a comprehensive performance review" ],
+        "CorrectIndex": 2,
+        "Explanation": "Focusing purely on the negatives and analyzing failures will paint half of the picture."
+      },
+      {
+        "Text": "What does a Cost Performance Index (CPI) of more than 1.0 indicate?",
+        "Options": [ "The project is over budget.", "The project is right on budget.", "The project is under budget.", "The project is ahead of schedule." ],
+        "CorrectIndex": 2,
+        "Explanation": "CPI > 1.0 indicates the project is under budget."
+      },
+      {
+        "Text": "Which of the following statements is correct?",
+        "Options": [ "A collection of unrelated programs can constitute a portfolio.", "The scope of a portfolio is typically smaller than that of a program.", "A program is a group of unrelated projects.", "A program need not consist of projects." ],
+        "CorrectIndex": 0,
+        "Explanation": "A portfolio is a collection of projects or programs managed as a group."
+      },
+      {
+        "Text": "A project team member finds that the color scheme of the webpage he is designing appears too gaudy and decides to change it to a mellowed down color scheme. The customer approved the original color scheme and the color palette. The independent testing team flags this as a defect, and a heated discussion ensues between the team member and the testing team. What is your view?",
+        "Options": [ "The testing team is incorrect in flagging this as a defect. This is an example of expert judgment when historical expertise is brought into the project.", "The testing team is correct. Even though the new color scheme is more pleasing than the old one, the appropriate change management process was not followed, and the work product is not as per design.", "The testing team is not right in flagging this. The color scheme is a simple matter, and the new colors are definitely more pleasing than the old ones.", "The testing team is correct in flagging this. The team member should have sent a note along with the work product indicating he or she made the color scheme change." ],
+        "CorrectIndex": 1,
+        "Explanation": "Changes must follow the change management process, even if they seem like improvements."
+      },
+      {
+        "Text": "Which of the following items needs to be kept in mind when relying on risk identification checklists?",
+        "Options": [ "They are biased.", "They are not exhaustive.", "They are often inaccurate.", "They are easy to prepare." ],
+        "CorrectIndex": 1,
+        "Explanation": "Checklists are useful but should not be considered exhaustive."
+      },
+      {
+        "Text": "As an external vendor, you are managing a complex software project on a time-and-materials (T&M) contract. One of your team members reports a breakthrough in automating some of the testing activities. This may result in cost savings to the project and completion of the project one month ahead of schedule. Which of the following actions would you take?",
+        "Options": [ "This is confidential information within your project team and there is no need to share with the customer. The savings will be additional profits on the project.", "Communicate the current status and inform the customer you will incorporate some additional features to use up the savings in cost and time since it was budgeted.", "Communicate the current status to the customer and indicate the potential changes to cost and schedule.", "Communicate the savings in cost and time to the customer. At the end of the project, notify your billing department that they need to prepare an invoice for 50 percent of the cost saved." ],
+        "CorrectIndex": 2,
+        "Explanation": "Transparency is key; changes affecting cost/schedule must be communicated."
+      },
+      {
+        "Text": "A company manages SBG contracting bids for government tenders and all successful bids as a separate project. The structure of the company is mainly projectized for a dedicated project team to manage each project. However, to realize economies of scale, there are some central departments that serve all projects. Which of the following role is most likely to be working in a central department instead of directly working with a project team?",
+        "Options": [ "Quality control inspector", "Construction manager", "Project planner", "Procurement administrator" ],
+        "CorrectIndex": 3,
+        "Explanation": "Procurement administration is often centralized for compliance."
+      },
+      {
+        "Text": "The Control Procurements process receives a very important input from the Direct and Manage Project Work process. Which one is it?",
+        "Options": [ "Approved change requests", "Work performance data", "Procurement documents", "Agreements" ],
+        "CorrectIndex": 1,
+        "Explanation": "Work performance data is a key input."
+      },
+      {
+        "Text": "Julia is currently recruiting her project team. She has carried out various interviews and has shortlisted potential candidates. Now, according to the project communication management plan, she has to submit the shortlisted profiles to the project client (customer) for approval. Only then, can she formally hire the approved candidates for the project. The submission of the profiles to the client will go through which of the following processes?",
+        "Options": [ "Manage Stakeholder Engagement", "Acquire Resources", "Manage Communications", "Plan Resource Management" ],
+        "CorrectIndex": 2,
+        "Explanation": "The submission of the profiles goes through Manage Communications."
+      },
+      {
+        "Text": "Mark is in the middle of a software development project. So far, the project has incurred a total cost of $50,000. If it is determined the project is no longer required, what would we call the cost incurred to date?",
+        "Options": [ "Opportunity cost", "Return on investment", "Breakeven cost", "Sunk cost" ],
+        "CorrectIndex": 3,
+        "Explanation": "Costs already incurred that cannot be recovered are sunk costs."
+      },
+      {
+        "Text": "Upon obtaining the project charter, the Project Manager of a project starts acquiring the project team immediately. Is this correct?",
+        "Options": [ "Yes. Acquisition of the project team is primarily an Initiating Process Group activity.", "Yes. The project manager needs to get the team together as soon as the project starts.", "No. It is the responsibility of the project sponsor to provide the team for execution.", "No. Acquisition of the project team is primarily an Executing Process Group activity." ],
+        "CorrectIndex": 3,
+        "Explanation": "Acquire Resources is an Executing Process Group activity."
+      }
+    ]
+  }

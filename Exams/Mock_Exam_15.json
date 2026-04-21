@@ -1,0 +1,304 @@
+{
+  "Questions": [
+    {
+      "Text": "A government agency has awarded your company a massive software project. This project has an early completion incentive, and your company has a policy of paying a bonus to the project manager if such an incentive is awarded. However, this particular government agency has a reputation for being extremely difficult to work with; there is a great deal of bureaucracy within this agency, and stonewalling and hostility toward contractors are common. The project manager will need to have excellent political skills to lead this project successfully. You have been asked to lead the project because of your expertise with this type of project. However, you have never worked within such a highly charged and political environment. What should you do?",
+      "Options": [ "Decline the project citing lack of experience.", "Accept the project but disclose your lack of experience in this type of environment.", "Accept the project and request that a corporate liaison be assigned to your project.", "Accept the project." ],
+      "CorrectIndex": 1,
+      "Explanation": "PMI's Code of Ethics and Professional Conduct requires that project managers accept only those projects for which they have the appropriate qualifications and background. However, if the project stakeholders receive full disclosure and still give their consent, it is permissible to accept a stretch assignment."
+    },
+    {
+      "Text": "As part of a strategy to handle negative risk, a project manager decided to adopt less complex processes, conduct more tests, and choose a more stable supplier. What strategy would this be classified as?",
+      "Options": [ "Acceptance", "Transference", "Mitigation", "Avoidance" ],
+      "CorrectIndex": 2,
+      "Explanation": "Actions such as adopting less complex processes, more testing, or choosing a more stable supplier would be considered mitigation. These actions reduce the probability and impact of risks."
+    },
+    {
+      "Text": "Bill is the project manager of an external project for a customer. The project is expected to take about a year to complete. Six months into the project, the customer informs Bill that he or she needs to scrap the project. During which of the following processes would procedures be developed to handle early termination of a project?",
+      "Options": [ "Develop Project Charter", "Close Project or Phase", "Define Scope", "Monitor Risks" ],
+      "CorrectIndex": 1,
+      "Explanation": "The Close Project or Phase process establishes the procedures to investigate and document the reasons for actions taken if a project is terminated before completion."
+    },
+    {
+      "Text": "During a discussion with the quality department, Dave, a project manager, was told that as applied to projects, the terms “prevention” and “inspection” are synonymous. However, his understanding of the terms is different. What would you comment on this situation?",
+      "Options": [ "The project manager is correct. Prevention is about keeping errors out of the process; inspection is about keeping errors out of the customer’s hands.", "The project manager is correct. Inspection is about keeping errors out of the process; prevention is about keeping errors out of the customer’s hands.", "The project manager is wrong. Both inspection and prevention are about keeping errors out of the customer’s hands. They are used in different contexts.", "The project manager is wrong. Both inspection and prevention are about keeping errors out of the process. They are used in different contexts." ],
+      "CorrectIndex": 0,
+      "Explanation": "The project manager is correct. Prevention is about keeping errors out of the process, whereas inspection is about keeping errors out of the hands of the customer. This is an important distinction, which the project management team needs to be aware of."
+    },
+    {
+      "Text": "Mark is managing an airport construction project. He is currently identifying his project stakeholders, and he has compiled a long list of stakeholders already. Managing expectations of every project stakeholder is not practical. What should he do in this situation?",
+      "Options": [ "Project stakeholders should be prioritized based on their influence and interest.", "Stakeholder analysis should be outsourced.", "Non-key stakeholders should be dropped from the stakeholder register.", "Stakeholder management processes should not be followed for such complex projects." ],
+      "CorrectIndex": 0,
+      "Explanation": "When the stakeholders list becomes unmanageable, the project stakeholders should be prioritized to ensure the efficient use of effort and time to manage their expectations."
+    },
+    {
+      "Text": "While preparing a resource management plan, a project manager designated one of the senior programmers on the team to make decisions on whether the quality of deliverables met the project's documented standards. Which of the following aspects of a resource management plan does this address?",
+      "Options": [ "Competency", "Responsibility", "Authority", "Role" ],
+      "CorrectIndex": 2,
+      "Explanation": "Authority is the best choice. Authority is the right to apply project resources and make decisions within the project. These decisions could include quality acceptance, selection of the method for completing an activity, and how to respond to project variances."
+    },
+    {
+      "Text": "A project manager uses the precedence diagramming method (PDM) for constructing a project schedule network and creates a network diagram for the purpose. He decides to use the most common type of precedence relationship for all activities. Which of the following relationships would he use?",
+      "Options": [ "Start-to-finish (SF)", "Finish-to-finish (FF)", "Start-to-start (SS)", "Finish-to-start (FS)" ],
+      "CorrectIndex": 3,
+      "Explanation": "Finish-to-start (FS) is the most common type of precedence relationship. In contrast, the start-to-finish (SF) relationship is rarely used."
+    },
+    {
+      "Text": "Sally, a project manager, was reconciling expenditure of funds with funding limits on the commitment of funds for the project. She found a large variance between the funding limits and planned expenditures. As a result, she decided to reschedule work to level out the rate of expenditures. This is:",
+      "Options": [ "Funding limit reconciliation", "Funding limit constraints", "Funding limit expenditure", "Funding limit appropriation" ],
+      "CorrectIndex": 0,
+      "Explanation": "This is known as funding limit reconciliation. It can be accomplished by placing imposed date constraints for work into the project schedule."
+    },
+    {
+      "Text": "A project manager used the services of a trained moderator during the Collect Requirements process. Which of the following is likely to have required the services of a trained moderator?",
+      "Options": [ "Interviews", "Prototypes", "Questionnaires", "Focus groups" ],
+      "CorrectIndex": 3,
+      "Explanation": "Focus groups bring together prequalified stakeholders and subject matter experts to learn about their expectations for, and attitudes toward, a proposed product, service or result. Typically, a trained moderator is employed to guide the group through an interactive discussion."
+    },
+    {
+      "Text": "Jessica is managing an office refurbishment project. All the project stakeholders are identified and classified. The stakeholder engagement plan is also approved. Jessica is managing a project for the first time, and she is relying on the PMBOK guide as a reference to deliver an excellent project. Which of the following processes would provide guidance to Jessica regarding how to execute the approved stakeholder engagement plan?",
+      "Options": [ "Monitor Stakeholder Engagement", "Manage Stakeholder Engagement", "Identify Stakeholders", "Plan Stakeholder Engagement" ],
+      "CorrectIndex": 1,
+      "Explanation": "The question is asking about the Stakeholder Management process from the executing process group. The Manage Stakeholder Engagement process executes the stakeholder engagement strategy developed during the Plan Stakeholder Engagement process. The Monitor Stakeholder Engagement process deals with making the necessary adjustments to the stakeholder engagement strategy."
+    },
+    {
+      "Text": "Kelly is part of a project management office (PMO). Her office is responsible for the centralized and coordinated management of 18 projects. Each project has its own project manager. Which of the following will not typically be a responsibility of her PMO?",
+      "Options": [ "Coaching, mentoring, training, and oversight", "Development of a detailed description of each project and the product it produces", "Managing shared resources across all the projects administered by the PMO", "Developing and managing project policies" ],
+      "CorrectIndex": 1,
+      "Explanation": "The primary function of a PMO is to support project managers in a variety of ways. This may include developing and managing project policies, coaching, mentoring, training, and oversight. This may also include management of resources that are shared across the projects. However, development of a detailed description of each project would be a responsibility of the project manager handling the project, not of the PMO."
+    },
+    {
+      "Text": "Which of the following statements accurately describes how the completion of project scope and the completion of product scope are measured?",
+      "Options": [ "The completion of project scope and product scope are both measured against the product requirements.", "The completion of project scope is measured against the project management plan, and the completion of product scope is measured against the product requirements.", "The completion of project scope is measured against the product requirements, and the completion of product scope is measured against the project management plan.", "The completion of project scope and product scope are both measured against the project management plan." ],
+      "CorrectIndex": 1,
+      "Explanation": "The completion of project scope is measured against the project management plan, whereas the completion of product scope is measured against the product requirements. The work of the project results in delivery of the specified product scope."
+    },
+    {
+      "Text": "Bill and Jake are two team members in a project. They do not get along well and are constantly involved in verbal conflicts. The project manager understands the characteristics of conflict and the conflict management process and tries to resolve the situation. Which of the following is not a correct statement?",
+      "Options": [ "Openness resolves conflict", "Conflict is natural and forces a search for alternatives", "Conflict is inevitable in a project environment.", "The project manager is not responsible for conflict management." ],
+      "CorrectIndex": 3,
+      "Explanation": "Project team members are initially responsible for resolution of their conflicts. If conflict escalates, the project manager should help resolve it."
+    },
+    {
+      "Text": "The Identify Risks process involves determining which risks may impact a project. It is considered an iterative process. What is the frequency of the iteration?",
+      "Options": [ "Every month", "Every two weeks", "The frequency of iteration will vary based on the situation", "Every week" ],
+      "CorrectIndex": 2,
+      "Explanation": "Identify Risks is an iterative process as risks become known or evolve. The frequency of iteration, and who participates in each cycle, will vary by the situation."
+    },
+    {
+      "Text": "A new project manager has just taken over a project that is 50 percent complete. As part of the hand-over process, the outgoing project manager provided the new project manager with a list of stakeholders that needed to be managed. The list had been compiled at the start of the project. Which of the following is true about stakeholders?",
+      "Options": [ "Stakeholder identification is usually performed when there are problems with the project", "Stakeholder identification needs to happen at the start of each new phase of a project", "Stakeholder identification is a continuous process and needs to happen all through the project", "Stakeholder identification needs to happen at the start of the project" ],
+      "CorrectIndex": 2,
+      "Explanation": "Stakeholder identification is a continuous process and can be quite difficult. Failure to identify stakeholders can result in project overruns. The new project manager can use the list of stakeholders provided by the outgoing project manager as a starting point, but he or she will still need to perform his or her own analysis to identify stakeholders during the rest of the project."
+    },
+    {
+      "Text": "A project manager manages a distributed team with team members located in five countries. Due to time zone differences, he cannot find a time that is acceptable to all team members. Which conflict resolution technique is best suited for this situation?",
+      "Options": [ "Compromise", "Force", "Withdraw", "Avoid" ],
+      "CorrectIndex": 0,
+      "Explanation": "A compromise requires searching for options that bring some degree to satisfaction to all parties in order to temporarily or partially resolve the conflict. This would be the best way to handle the current situation, since time zone differences are not under anyone’s control."
+    },
+    {
+      "Text": "Acceptance is a strategy adopted because it is not possible to eliminate all risks from a project. This strategy indicates that the project management team has decided not to change the project management plan to deal with a risk. What action does passive acceptance require?",
+      "Options": [ "Passive acceptance is no longer adopted in projects and is a poor project management practice.", "Passive acceptance requires no action except to document the strategy and come up with a risk management strategy.", "Passive acceptance requires no action.", "Passive acceptance requires no proactive action except periodic review of the threat." ],
+      "CorrectIndex": 3,
+      "Explanation": "Acceptance is a strategy adopted because it is not possible to eliminate all risks from a project. This strategy indicates that the project management team has decided not to change the project management plan to deal with a risk. Passive acceptance requires no action except performing periodic review of the threat."
+    },
+    {
+      "Text": "A buyer and seller set the rates for junior engineers, senior engineers, architects, and other predefined roles. In what type of contract would this be applicable?",
+      "Options": [ "Fixed-price with economic price adjustment contract", "Fixed-price incentive contract", "Fixed-price contract", "Time and material contract" ],
+      "CorrectIndex": 3,
+      "Explanation": "In time-and-materials contracts, the buyer and seller agree on unit labor rates and the actual cost of materials. Both parties agree on specific hourly rates for such categories as junior or senior engineers."
+    },
+    {
+      "Text": "A project manager is estimating project costs and needs to decide whether the estimates will include direct costs only or include indirect costs, as well. In which of the following phases does this decision need to take place?",
+      "Options": [ "Define Scope", "Estimate Costs", "Plan Expenses", "Determine Budget" ],
+      "CorrectIndex": 1,
+      "Explanation": "This is done in the Estimate Costs process. The project manager works in accordance with the organization's guidelines and decides whether the estimates will be limited to direct project costs only or whether the estimates will also include indirect costs. Indirect costs are those that cannot be traced to one specific project, and are usually allocated equitably over multiple projects."
+    },
+    {
+      "Text": "After conducting a bidder conference, you receive an email from one of the bidders requesting additional information. The information was neither included in your request for proposal, nor did anyone ask for it during the bidder conference. You realize the answer to this question is critical to understanding the scope of the project. If the answer is not communicated to bidders, they cannot size their teams accurately or estimate the total duration of the project. The answer also greatly affects cost. However, the answer contains some proprietary information that, if disclosed to a competitor, may reveal the future product strategy of your company. Such a disclosure could be disastrous for a major product launch you are planning next year. You decide to send the answer to all the bidders, but you realize one of the bidders is also working closely with one of your competitors on a similar project. What should you do?",
+      "Options": [ "Don’t send this information in writing; instead, telephone each bidding company.", "Send this information to all bidders except the bidder working with your competitor.", "Send this information to only the supplier who requested it.", "Require all bidders to sign a nondisclosure agreement. You may then send the information to each company that signed the NDA." ],
+      "CorrectIndex": 3,
+      "Explanation": "The best choice is to require all bidders to sign a non-disclosure agreement (NDA) before sending them this additional information, and then provide the additional information to each bidder that has signed an NDA. Project managers are required to act fairly and provide equal access to information to all authorized parties. Sending the information to only some of the bidding companies would represent a violation of the PMI Code of Ethics and Professional Conduct."
+    },
+    {
+      "Text": "During a project status meeting, a project manager presented sensitive information related to the project. However, this information was not intended to be available to the audience. Which of the following processes was done incorrectly, resulting in the project manager communicating sensitive information to the wrong audience?",
+      "Options": [ "Monitor Communications", "Manage Stakeholder Engagement", "Plan Communications Management", "Identify Stakeholders" ],
+      "CorrectIndex": 2,
+      "Explanation": "Deciding what information is relevant to an audience is an activity done in the Plan Communications Management process. Improper communication planning will lead to problems such as delays in message delivery or communication of sensitive information to the wrong audience."
+    },
+    {
+      "Text": "A project manager created a resource histogram. On the histogram, some bars extended beyond the maximum available hours. What does this usually signify?",
+      "Options": [ "This means that the resources on those bars are being underused.", "This means that a resource optimization strategy needs to be applied.", "This means the resources are producing outputs at a rate faster than the average rate.", "This means that resources need to be reduced from the project." ],
+      "CorrectIndex": 1,
+      "Explanation": "If the bars in a resource histogram extend beyond the maximum available hours, it means that a resource optimization strategy needs to be applied, such as adding more resources or modifying the schedule."
+    },
+    {
+      "Text": "A project manager needs team members that report to a functional manager. What technique is the project manager most likely to use to obtain these resources?",
+      "Options": [ "Pre-assignment", "Authority", "Negotiation", "Coercion" ],
+      "CorrectIndex": 2,
+      "Explanation": "Staff assignments are negotiated on many projects. The project manager will negotiate with functional managers to ensure that the project receives competent staff in the required time frame."
+    },
+    {
+      "Text": "Which of the following statements about project teams is incorrect?",
+      "Options": [ "The project management team is usually a team external to the project team.", "The project management team is a subset of the project team.", "For smaller projects, the entire team can share the project management responsibilities.", "For smaller projects, the project manager can solely administer project management responsibilities." ],
+      "CorrectIndex": 0,
+      "Explanation": "The project management team is a subset of the project team."
+    },
+    {
+      "Text": "You are just about to present your project’s status to your company’s executive team. Just as you are leaving your desk for the meeting, one of your resources hands you an updated report on the progress of a critical deliverable. As you are walking to the conference room, you review the report and notice there is an error in it. What do you do?",
+      "Options": [ "Do not report on that part of the project", "Disclose that you have just discovered there is an error in some of the information you intended to present and only present the information that you know is true", "Cancel the meeting", "Present the information as-it-is and revise it in the meeting minutes, which will be sent after two days" ],
+      "CorrectIndex": 1,
+      "Explanation": "Disclose that you have just discovered an error in some of the information you had planned to present, and only present information that you know to be accurate. Project managers are obligated to provide accurate and timely project information at all times, in accordance with the PMI Code of Ethics and Professional Conduct."
+    },
+    {
+      "Text": "Sheila is the project manager of a website development project. After a detailed discussion with the project management team, she decides to create an informal, broadly framed quality management plan. What would your comment on this be?",
+      "Options": [ "This is incorrect. A quality management plan should be formal but broadly framed.", "This is incorrect. A quality management plan should be formal and highly detailed.", "This is fine. The project requirements determine the style and detail of the quality management plan.", "This is incorrect. A quality management plan should be informal and highly detailed." ],
+      "CorrectIndex": 2,
+      "Explanation": "The quality management plan may be formal or informal, highly detailed or broadly framed. Its style and detail are determined by the requirements of the project as defined by the project management team."
+    },
+    {
+      "Text": "A project manager was involved in preparation of the project charter for an external project. One of the inputs to the project charter was a statement of work (SOW). The SOW may have been received from the customer as part of any of the following except:",
+      "Options": [ "As part of a request for information", "As part of the business case", "As part of a request for proposal", "As part of a contract" ],
+      "CorrectIndex": 1,
+      "Explanation": "The statement of work (SOW) is a narrative description of products or services to be delivered by the project. For an external project, the SOW may be received as part of a bid document such as the request for proposal, request for information, request for bid or as part of a contract. It is usually not part of the business case."
+    },
+    {
+      "Text": "To define the logical relationship among dependencies accurately, a project manager is determining which ones require a lead or a lag. Which of the following correctly describes leads or lags?",
+      "Options": [ "A lead allows a successor activity to be delayed.", "A lag directs a delay in the predecessor activity.", "A lag allows acceleration of the successor activity.", "A lead allows an acceleration of the successor activity." ],
+      "CorrectIndex": 3,
+      "Explanation": "To define the logical relationship among dependencies accurately, the project management team determines which ones require a lead or a lag. A lead allows an acceleration of the successor activity."
+    },
+    {
+      "Text": "Which of the following scenarios is likely to occur in a project?",
+      "Options": [ "Cost and staffing levels are low at the start of the project.", "Stakeholders' influence on the project is lowest at the start of the project.", "Risk and uncertainty are lowest at the start of the project.", "Cost of changes are the highest at the start of the project." ],
+      "CorrectIndex": 0,
+      "Explanation": "Cost and staffing levels are low at the start of the project. The other statements are incorrect."
+    },
+    {
+      "Text": "Dina, the project manager of a hardware project, is performing a structured review of the procurement process. She would like to examine each document from the Plan Procurement Management process through the Control Procurements process to identify failures. What tool should Dina use?",
+      "Options": [ "Procurement audits in the control procurements process", "Performance reports in the conduct procurements process", "Negotiated settlements in the control procurements process", "Procurement audits in the conduct procurements process" ],
+      "CorrectIndex": 0,
+      "Explanation": "A procurement audit is a tool in the Control Procurements process. Procurement audits are carried out to identify successes and failures that warrant recognition. When this tool is used, all procurement processes are thoroughly checked, and corresponding documents are checked for problems. Therefore, the correct answer is procurement audits in the Control Procurements process."
+    },
+    {
+      "Text": "A project manager estimated that a project would require 4375 person hours of effort. The project ended up using 6250 person-hours of effort. The difference between these two figures is a:",
+      "Options": [ "Variance", "Control Limit", "Threshold", "Standard Deviation" ],
+      "CorrectIndex": 0,
+      "Explanation": "Variance is a quantifiable deviation, departure, or divergence away from a known baseline of expected value."
+    },
+    {
+      "Text": "Erica is managing a kitchen tools manufacturing project, which is intended to produce modern cooking ovens. This project is hugely important for the company as well as for Erica‘s career. Although the project scope statement was well-defined and requirements were gathered from stakeholders in the planning phase, many design change requests have come in from customers during project execution. Which of the following tasks must Erica perform to avoid scope creep caused by uncontrollable changes?",
+      "Options": [ "Perform validate scope process and process all changes through the plan risk responses process", "Perform integrated change control process and process all changes through the control quality process", "Perform scope control and process all changes through the integrated change control process", "Perform scope control and process all changes through the validate scope process" ],
+      "CorrectIndex": 2,
+      "Explanation": "All scope changes must be controlled in a project through the Control Scope process. However, scope control must also ensure that all changes requested by customers go through the Perform Integrated Change Control process. This way, scope creep can be avoided, and project changes can be managed. Hence, Erica must perform scope control and process all changes through the Integrated Change Control process."
+    },
+    {
+      "Text": "A project manager is considering risk in a project. When does risk come into play in a project?",
+      "Options": [ "During the SWOT (strengths, weaknesses, opportunities, and threats) analysis", "During the Identify Risks phase", "As soon as the Plan Risk Management phase begins", "As soon as a project is conceived" ],
+      "CorrectIndex": 3,
+      "Explanation": "Project risk exists in a project from the moment the project is conceived. The risks are identified as part of specific processes, but the risks always exist."
+    },
+    {
+      "Text": "The scope of work in a project could not be clearly defined. There was also a strong possibility that the scope would change during the course of the project. Which type of contract would suit this type of situation?",
+      "Options": [ "Fixed-price with economic price adjustment contract", "Fixed-price contract", "Cost-reimbursable contract", "Fixed-price incentive contract" ],
+      "CorrectIndex": 2,
+      "Explanation": "A cost-reimbursable contract gives the project flexibility to redirect a seller whenever the scope of work cannot be precisely determined at the start of the project and needs to be altered, or when high risks may exist in the effort."
+    },
+    {
+      "Text": "You are managing a project with a large multinational staff. Susan, one of the engineers, was originally asked to deliver her part of the work on October 19. Due to a change in the critical path, her deliverable will be needed two days sooner. However, as the new deadline is still two weeks away and she is ahead of schedule, you are confident her delivery will be on time. During a staff meeting, you learn from John, her functional manager, that Susan celebrates a religious holiday on October 17. However, he also tells you that Susan is not particularly religious; if pushed a bit and offered some incentive, she may forego celebrating this holiday and come to work. What should you do?",
+      "Options": [ "Check whether one of her colleagues can share some of her workload this week", "Increase her project incentive if she agrees to deliver her presentation on the 17th", "Let the critical path remain the same", "Ask her boss to ask her to skip the holiday" ],
+      "CorrectIndex": 0,
+      "Explanation": "Checking to see if one of her colleagues could share some of her workload this week is the best choice. If another resource can assist with the completion of this task, Susan may celebrate the holiday without affecting the delivery of her work item. PMI's Code of Ethics and Professional Conduct mandates that project managers must respect the religious beliefs of others and must not use their position or expertise to influence the decisions or actions of others to benefit at their expense."
+    },
+    {
+      "Text": "Jackie is the project manager of a large project. During the Determine Budget process, she identifies that contingency reserves need to be set up for unplanned but potentially necessary changes that could result from realized risks identified in the risk register. Which of the following is true about reserves?",
+      "Options": [ "Management Reserves are not a part of project cost baseline, but will be included in the total budget for the project", "Contingency Reserves are not a part of project cost baseline, but will be included in the total budget for the project", "Both the Management Reserves and the Contingency Reserves are part of project cost baseline, and they are also not included in the total budget for the project", "Both the Management Reserves and the Contingency Reserves are not part of project cost baseline, but they are included in the total budget for the project" ],
+      "CorrectIndex": 0,
+      "Explanation": "Management Reserves are not a part of the project cost baseline but will be included in the total budget for the project."
+    },
+    {
+      "Text": "You are meeting with your stakeholders to gather requirements for your project. You are well aware that requirements to be gathered include both product and project requirements. All the following tools can be used to gather, define, and analyze project requirements from stakeholders except:",
+      "Options": [ "Surveys", "Focus Groups", "Decomposition", "Prototypes" ],
+      "CorrectIndex": 2,
+      "Explanation": "Both product and project requirements are gathered from stakeholders during the Collect Requirements process. This effort is undertaken during project planning. Focus groups, surveys, and prototypes are some of the tools used to define and analyze requirements. Decomposition is used only to break down the work and not to gather requirements. Therefore, decomposition is the correct answer."
+    },
+    {
+      "Text": "A project manager is looking at a make-or-buy analysis as part of the Procurement Management process. What type of costs should the project manager consider for this analysis?",
+      "Options": [ "Direct costs", "Indirect costs", "Out-of-pocket costs", "Both direct as well as indirect costs" ],
+      "CorrectIndex": 3,
+      "Explanation": "The make-or-buy analysis needs to be as comprehensive as possible. Hence, it should consider all possible costs, both direct and indirect."
+    },
+    {
+      "Text": "Which of the following is not an input to the Conduct Procurements process?",
+      "Options": [ "Proposal evaluation techniques", "Seller proposals", "Cost baseline", "Procurement management plan" ],
+      "CorrectIndex": 0,
+      "Explanation": "Proposal evaluation techniques are the tools and techniques of the Conduct Procurement process. The other choices are the valid inputs to this process."
+    },
+    {
+      "Text": "During the execution of a project, a large number of defects were discovered. The project manager ensured that the issues, defect resolution, and action item results were logged into a defects database. What would the defect database be considered a part of?",
+      "Options": [ "Expert Judgment", "Deliverables", "Change Requests", "Organizational Process Assets" ],
+      "CorrectIndex": 3,
+      "Explanation": "Issue and defect management databases are considered part of the organizational process assets. These databases typically contain historical issue and defect status, control information, issue and defect resolution, and action item results."
+    },
+    {
+      "Text": "The WBS structure can be created in a number of forms except which of the following?",
+      "Options": [ "Using work packages as the second level of decomposition, with the project deliverables inserted at the third level", "Using major deliverables as the second level of decomposition", "Using phases of the project lifecycle as the second level of decomposition, with the product and project deliverables inserted at the third level", "Using subcomponents, which may be developed by organizations outside the project team, such as contracted work" ],
+      "CorrectIndex": 0,
+      "Explanation": "The work packages are at the lowest level of a WBS. The other statements are correct regarding the structure of the WBS."
+    },
+    {
+      "Text": "A project manager is currently ensuring that the stakeholders clearly understand the project goals, objectives, benefits, and risks. This relates to which of the following processes?",
+      "Options": [ "Control Stakeholder", "Identify Stakeholders", "Plan Communications Management", "Manage Stakeholder Engagement" ],
+      "CorrectIndex": 3,
+      "Explanation": "The Manage Stakeholder Engagement process involves ensuring that the stakeholders clearly understand the project goals, objectives, benefits and risks."
+    },
+    {
+      "Text": "Joe has been managing a project for Exton Oil Corp. This project involves redesigning filling stations across the state. The redesign involves new gas pumps, security cameras, convenience stores, and use of environmentally friendly materials in the construction. While the redesigning work proceeds, Joe’s design engineer suggests a secondary alarm system for gas pumps to alert the attendant in case of a spill. Although this suggestion is not in the project requirements, Joe is impressed with the engineer’s recommendation. What should be the next step for Joe with regard to the engineer’s suggestion?",
+      "Options": [ "Initiate the formal change control process to find the impact of his recommendation", "Approve his recommendation and allocate resources and funds", "Create an issue log to document the engineer‘s suggestion for future use", "Reject his recommendation as it requires additional funding" ],
+      "CorrectIndex": 0,
+      "Explanation": "Change requests should always be recorded in written form and entered in the change management system to determine the impact of the change on the scope, budget, schedule and quality. Thus, Joe must initiate the formal change control process. After approval from the change control board, Joe can allocate resources and funds to implementing the change. Hence, Joe must initiate the change first."
+    },
+    {
+      "Text": "Which of the following structures helps track project costs and can align with the organization’s accounting system?",
+      "Options": [ "Project breakdown structure (PBS)", "Matrix breakdown structure (MBS)", "Work Breakdown Structure (WBS)", "Organizational breakdown structure (OBS)" ],
+      "CorrectIndex": 2,
+      "Explanation": "The Work Breakdown Structure (WBS) provides the framework for the cost management plan. The WBS contains control accounts, which link directly to the performing organization's accounting system."
+    },
+    {
+      "Text": "A first-time project manager is advised by an experienced project manager to plan for cost of quality. The first-time project manager is not sure which costs are included in the cost of quality. What would your advice be?",
+      "Options": [ "Cost of quality only includes cost of nonconformance.", "Cost of quality includes cost of conformance and cost of nonconformance.", "Cost of quality only includes prevention costs and internal failure costs.", "Cost of quality only includes cost of conformance." ],
+      "CorrectIndex": 1,
+      "Explanation": "Cost of quality (COQ) includes all costs related to quality management activities and quality issues incurred over the life of a product. It includes cost of conformance (prevention and appraisal costs) as well as cost of nonconformance (internal and external failure costs)."
+    },
+    {
+      "Text": "Miranda is an experienced project manager. As part of the Collect Requirements phase, she decides to use a group creativity technique. This technique is intended to enhance brainstorming with a voting process and can be used to rank the most useful ideas for further brainstorming or prioritization. Which of the following will she likely use?",
+      "Options": [ "Normal group technique", "Minimal group technique", "Unanimous group technique", "Nominal group technique" ],
+      "CorrectIndex": 3,
+      "Explanation": "Miranda likely intends to use the Nominal group technique. This enhances brainstorming with a voting process to rank the most useful ideas for further brainstorming or prioritization."
+    },
+    {
+      "Text": "In which of the following situations would it be better to avoid using Analogous Estimating?",
+      "Options": [ "When the project team members have the needed expertise", "When an accurate estimate is required", "When a low value estimate is required", "When the previous activities are similar in fact and not just appearance" ],
+      "CorrectIndex": 1,
+      "Explanation": "Analogous estimating is typically less costly than other estimation techniques but also less accurate. It is most reliable when previous activities are similar in fact and the project team members have the needed expertise. This method should not be used when an accurate estimate is required."
+    },
+    {
+      "Text": "During the Collect Requirements process, a group of people were discussing multiple alternatives. One of the individuals in the group made the decision for the group. This method of reaching a group decision is termed:",
+      "Options": [ "One Thinking Hat", "Autocratic", "Plurality", "Autonomy" ],
+      "CorrectIndex": 1,
+      "Explanation": "The method where a single individual makes the decision on behalf of a group is termed autocratic. Other group decision-making techniques are unanimity (everyone agrees on a course of action), majority (support from more than 50% of members), and plurality (the largest block decides even if a majority is not achieved)."
+    },
+    {
+      "Text": "Which of the following processes will determine the correctness of deliverables?",
+      "Options": [ "Plan Deliverables", "Plan Quality Management", "Control Quality", "Manage Quality" ],
+      "CorrectIndex": 2,
+      "Explanation": "An important goal of quality control is to determine the correctness of deliverables. The results of the execution of quality control processes are verified deliverables. These are then input to the Validate Scope process for formalized acceptance."
+    },
+    {
+      "Text": "All the monitoring and controlling processes and many of the executing processes can produce change requests as an output. Change requests may require corrective actions and preventive actions. Which of the following are normally affected by corrective and preventive actions?",
+      "Options": [ "Defect repair", "Regressive baselines", "The project baselines", "The performance against baselines" ],
+      "CorrectIndex": 3,
+      "Explanation": "Corrective and preventive actions do not normally affect the project baselines, only the performance against the baselines."
+    }
+  ]
+}

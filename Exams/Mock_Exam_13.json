@@ -1,0 +1,554 @@
+{
+  "Questions": [
+    {
+      "Text": "You have completed your estimates for your project and have determined that it will take 10 months to complete. However, your project sponsor insists that it be completed in nine months. How do you handle this?",
+      "Options": [
+        "Increase the budget by 10 percent",
+        "Inform the sponsor you will have to explore the options before committing to that timeline",
+        "Reduce scope",
+        "Add resources"
+      ],
+      "CorrectIndex": 1,
+      "Explanation": "Inform the sponsor you must explore other options before committing to that timeline. Changing the budget, reducing scope, or adding resources are activities that must be agreed on by the project stakeholders before you can proceed. PMI requires project managers to provide timely and accurate information, and to follow all decision-making processes and policies. [PMI Code of Ethics and Professional Conduct] [Prof. Responsibility ]"
+    },
+    {
+      "Text": "A project manager prepared a composite resource calendar. Which of the following is unlikely to be part of the resource calendar?",
+      "Options": [
+        "Availability of Resources",
+        "Skills of Human Resources",
+        "Cost of Resources",
+        "Capabilities of Human Resources"
+      ],
+      "CorrectIndex": 2,
+      "Explanation": "A resource calendar does not usually contain cost information. The other choices are valid constituents of a resource calendar. [PMBOK 6th edition, Page 323]"
+    },
+    {
+      "Text": "You have just become the project manager of a project already in execution. During your first week on the job, you receive multiple requests from different stakeholders asking for project reports in various formats. These requests overwhelm you. What should you do first?",
+      "Options": [
+        "Ignore the requests and send the standard project report",
+        "Issue a change request",
+        "Stakeholders are always right, fulfill their requests on top priority",
+        "Review the communications management plan"
+      ],
+      "CorrectIndex": 3,
+      "Explanation": "The first step should be to determine if the requests are legitimate or not. The ideal place to locate this information is the communications management plan. The communications management plan documents stakeholder communication requirements including the content, language and format. [PMBOK 6th edition, Page 377] [Project Stakeholder Management ]"
+    },
+    {
+      "Text": "A project was awarded based on a competitive proposal. Management made a commitment that a few key team members would work on the project. When such assignments happen, they are:",
+      "Options": [
+        "Bargaining agreements",
+        "Schedule constraints",
+        "Assignment risk",
+        "Pre-assignments"
+      ],
+      "CorrectIndex": 3,
+      "Explanation": "When team members are assigned to projects in advance of the start of the project, they are termed as pre-assignments. Such assignments can happen when resources are promised as part of a competitive proposal, when projects are dependent on critical resources, or if some staff assignments have been defined in the project charter. [PMBOK 6th edition, Page 333] [Project Resource Management ]"
+    },
+    {
+      "Text": "You have recently been assigned to a research project. Although there is a limited number of key stakeholders, there is a big number of other stakeholders involved in this project, especially the ones who will be using the research’s outcome. You have some specific questions. Which of the following is the best way to quickly obtain responses from a big group of stakeholders?",
+      "Options": [
+        "Focus groups",
+        "Questionnaires",
+        "Interviews",
+        "Phone calls"
+      ],
+      "CorrectIndex": 1,
+      "Explanation": "Questionnaires offer a quick way of obtaining responses from a big group of people especially when the specific questions are known in advance. Interviews, phone conversations and focus groups are more time consuming techniques. [PMBOK 6th edition, Page 143] [Project Stakeholder Management ]"
+    },
+    {
+      "Text": "Your project team members have just started to work together and are now adjusting their work habits and behaviors to support each other. Which stage of the Tuckman ladder has your team just entered?",
+      "Options": [
+        "Norming",
+        "Performing",
+        "Forming",
+        "Storming"
+      ],
+      "CorrectIndex": 0,
+      "Explanation": "During the norming stage, the project team members start to work together and adjust their work habits and behaviors to support each other. [PMBOK 6th edition, Page 338] [Project Resource Management ]"
+    },
+    {
+      "Text": "A project manager had scheduled a number of training programs for his team. However, he was aware that apart from planned training, unplanned training also took place in a number of ways. Which of these is not one of the ways in which unplanned training can take place?",
+      "Options": [
+        "Classroom",
+        "Observation",
+        "Project performance appraisals",
+        "Conversation"
+      ],
+      "CorrectIndex": 0,
+      "Explanation": "Scheduled training occurs as stated in the Human Resource plan and can include online, classroom, on-the-job, etc. Unplanned training can take place through conversation, observation, and project performance appraisals. [PMBOK 6th edition, Page 342] [Project Resource Management ]"
+    },
+    {
+      "Text": "As part of the procurement process, the procuring organization elected to have an estimate of costs prepared by an outside professional estimator. The estimator came up with an estimate of $500,000. However, the cost estimates prepared by prospective sellers were in the range of $200,000. How can this be best interpreted?",
+      "Options": [
+        "The procurement statement of work was deficient and ambiguous.",
+        "The professional estimator has inflated the estimate of costs.",
+        "The prospective sellers do not have the required skills to do the project.",
+        "Prospective sellers are trying to underbid and win the project."
+      ],
+      "CorrectIndex": 0,
+      "Explanation": "When prospective bids are significantly different from the estimates prepared by a professional estimator, it likely means that the procurement statement of work (SOW) was deficient or that the prospective sellers have misunderstood the procurement SOW. The other choices jump to conclusions without relevant data. It is possible that some prospective sellers do not have the skills or are trying to underbid; but in this case, all of them are off by a large percentage. Hence, it points to a deficient statement of work. [PMBOK 6th edition, Page 479] [Project Procurement Management ]"
+    },
+    {
+      "Text": "Which of the following allows a project management team to communicate all approved and rejected changes to the stakeholders consistently?",
+      "Options": [
+        "Configuration management system",
+        "Verification management system",
+        "Configuration status accounting",
+        "Change management board"
+      ],
+      "CorrectIndex": 0,
+      "Explanation": "A configuration/change management system, including change control processes, provides a mechanism for the project management team to communicate all approved and rejected changes to the stakeholders consistently. [PMBOK 6th edition, Page 115]"
+    },
+    {
+      "Text": "Which of the following are more important inputs to the Manage Stakeholder Engagement process in relation to the others?",
+      "Options": [
+        "Risk management plan and Scope management plan",
+        "Communications management plan and Cost management plan",
+        "Stakeholder engagement plan and Schedule management plan",
+        "Stakeholder engagement plan and Communications management plan"
+      ],
+      "CorrectIndex": 3,
+      "Explanation": "Any component of the project management plan can be used as an input but the most important ones are the communications management plan, the risk management plan, the stakeholder engagement plan and the change management plan. [PMBOK 6th edition, Page 525]"
+    },
+    {
+      "Text": "Which of the following is incorrect?",
+      "Options": [
+        "Contingency reserves are not part of the project cost baseline.",
+        "Management reserves are not part of the project cost baseline.",
+        "The project manager needs to get approval before spending management reserve.",
+        "Reserves are usually included in the total budget of a project."
+      ],
+      "CorrectIndex": 0,
+      "Explanation": "Contingency reserves are included in the project cost baseline. [PMBOK 6th edition, Page 254] [Project Cost Management ]"
+    },
+    {
+      "Text": "Linda is a first-time project manager and is analyzing a project schedule. She intends to apply resource leveling, and she has the following guidelines on Resource Leveling. Which of these four statements is incorrect?",
+      "Options": [
+        "Resource Leveling can often cause the critical path to change.",
+        "Resource Leveling is applied to a schedule before it has been analyzed by the critical path method.",
+        "Resource Leveling is applied to keep resource usage at a constant level.",
+        "Resource Leveling is necessary when resources have been over-allocated."
+      ],
+      "CorrectIndex": 1,
+      "Explanation": "Resource leveling is a schedule network analysis technique. It is applied to a schedule that has already been analyzed by the critical path method. [PMBOK 6th edition, Page 211] [Project Schedule Management ]"
+    },
+    {
+      "Text": "The Code of Ethics and Professional Conduct has as its foundation four values identified by practitioners from the global project management community. They are:",
+      "Options": [
+        "Respect, fairness, transparency, and freedom",
+        "Responsibility, transparency, fairness, and honesty",
+        "Respect, freedom, honesty, and transparency",
+        "Responsibility, respect, fairness, and honesty"
+      ],
+      "CorrectIndex": 3,
+      "Explanation": "The values that practitioners from the global project management community have identified as being the most important are: Responsibility, respect, fairness, and honesty. These values form the basis for the Code of Ethics and Professional Conduct. [PMI Code of Ethics and Professional Conduct] [Prof. Responsibility ]"
+    },
+    {
+      "Text": "Prompt lists are usually developed based on historical information and knowledge accumulated from previous similar projects. Which of the following statements about risk prompt lists is wrong?",
+      "Options": [
+        "The prompt list can be used as a framework",
+        "The lowest level of the Risk Breakdown Structure (RBS) cannot be used as a risk prompt list.",
+        "Prompt lists can be used for idea generation",
+        "Prompt list is a predetermined list of risk categories"
+      ],
+      "CorrectIndex": 1,
+      "Explanation": "The lowest level in the RBS can be used as a basic risk prompt list. The other statements are all true. [PMBOK 6th edition, Page 416] [Project Risk Management ]"
+    },
+    {
+      "Text": "Lena is managing the construction of a new office facility for her company. The project is halfway through the execution. The project sponsor has asked Lena to ensure that all key project stakeholders are still committed to the project. How can Lena assess the stakeholders' current engagement levels?",
+      "Options": [
+        "By analyzing the most recent issue register",
+        "By reviewing the Stakeholders Engagement Assessment Matrix last updated during the planning phase of the project",
+        "By requesting the key stakeholders to submit a signed declaration of commitment",
+        "By communicating and interacting with the key stakeholders"
+      ],
+      "CorrectIndex": 3,
+      "Explanation": "The stakeholders' current engagement levels can be assessed by communicating and interacting with them. Reviewing the Stakeholders Engagement Assessment Matrix developed during the planning phase of the project will be of little help, if it has not been reviewed since then. Analyzing the issue register can indicate stakeholder engagement levels, but this document alone is not sufficient to determine the current engagement levels. Asking the stakeholders to sign a declaration of commitment is ridiculous. [PMBOK 6th edition, Page 524] [Project Stakeholder Management ]"
+    },
+    {
+      "Text": "The list of identified risks is found in the risk register. However, the overall high-level project risks is first listed in the:",
+      "Options": [
+        "Scope statement",
+        "Requirement document",
+        "Project charter",
+        "Risk management plan"
+      ],
+      "CorrectIndex": 2,
+      "Explanation": "The project charter is a document that authorizes the project. Along with details such as the purpose of the project, project objectives, high level requirements, etc., it also lists the overall project risks. [PMBOK 6th edition, Page 81] [Project Integration Management ]"
+    },
+    {
+      "Text": "A number of identified risks occurred early in a project. As a result, most of the project objectives ended up in jeopardy. The project manager decided to present a case to management that the project be closed down. This is an example of:",
+      "Options": [
+        "Risk Acceptance",
+        "Risk Mitigation",
+        "Risk Avoidance",
+        "Risk Transfer"
+      ],
+      "CorrectIndex": 2,
+      "Explanation": "Risk avoidance involves changing the project management plan to eliminate the risk. Although an extreme situation, shutting down a project constitutes a radical but legitimate avoidance strategy. [PMBOK 6th edition, Page 443] [Project Risk Management ]"
+    },
+    {
+      "Text": "20 percent of the work was completed in a project. At this stage, the project manager determined that the budget at completion (BAC) was no longer viable and developed a forecasted estimate at completion (EAC). What index can the project manager use to look at the calculated projection of cost performance that must be achieved on the remaining work?",
+      "Options": [
+        "Schedule Performance Index (SPI)",
+        "Cost Performance Index (CPI)",
+        "Cost Variance (CV)",
+        "To-Complete Performance Index (TCPI)"
+      ],
+      "CorrectIndex": 3,
+      "Explanation": "The to-complete performance index (TCPI) is the calculated projection of cost performance that must be achieved on the remaining work to meet a specified goal such as the BAC or EAC. It is defined as the work remaining divided by the funds remaining. [PMBOK 6th edition, Page 266] [Project Cost Management ]"
+    },
+    {
+      "Text": "A project uses rounding of activity cost estimates data to the nearest $100, uses staff hours as the unit of measure for resources, and has a variance threshold of 10 percent deviation from the baseline plan. These approaches are typically documented in the:",
+      "Options": [
+        "Cost management plan",
+        "Scope Statement",
+        "WBS",
+        "Project charter"
+      ],
+      "CorrectIndex": 0,
+      "Explanation": "Cost management processes and their associated tools and techniques are documented in the cost management plan. These include parameters such as the level of accuracy (how much rounding), units of measure (staff hours, weeks, etc.), and control thresholds (percentage deviation from baseline plan). [PMBOK 6th edition, Pages 238, 239] [Project Cost Management ]"
+    },
+    {
+      "Text": "You are two days late on reporting the status for a project you are managing. The status report indicates that the project is lagging behind schedule. During the current week, you are confident of making up some of the lost time. How should you report project status?",
+      "Options": [
+        "Since the status report is already due, do nothing. Send out the status report next week when the project is back on track.",
+        "Since the status report is already two days overdue, you may communicate to stakeholders that you will send a consolidated status report next week. In this manner, you can avoid being untruthful or falsifying reports.",
+        "Send out a status report to all stakeholders indicating that the project is on track. Once this week goes by, things will be fine, and the status reports will be back to normal.",
+        "You should report project status exactly as it is. You may also mention that you expect to make up some of the lost ground but will truthfully represent current status."
+      ],
+      "CorrectIndex": 3,
+      "Explanation": "As practitioners in the global project management community, it is our responsibility to be honest in our communications and conduct. We need to provide accurate information even if it is not favorable to us. [PMI Code of Ethics and Professional Conduct] [Prof. Responsibility ]"
+    },
+    {
+      "Text": "You are a business development manager at a mid-sized automobile manufacturing company. Recently, you were given a project to assess the feasibility of manufacturing light-duty trucks in a Southeast Asian country. To develop a cost estimate, you visit the country with a team of experts to analyze local resources such as power, labor, and real estate. After the visit, you discuss the findings with an automobile manufacturing consultant. The consultant notes that the local laws and government bureaucracy typically make foreign investors spend more than a year obtaining all necessary permits. To avoid these delays, the consultant advises giving a small amount of company stock to the son of the country’s president. In return, the president’s son will personally expedite the issuing of all required permits. What should you do?",
+      "Options": [
+        "Add the opportunity costs associated with the year delay in getting permitted without local assistance.",
+        "Notify your company that a bribe is necessary to avoid lengthy delays in permitting.",
+        "Facilitate a meeting with the president’s son and your managing director to finalize the details of the stock for services arrangement.",
+        "Determine the legality of the proposed exchange of stock for permitting assistance."
+      ],
+      "CorrectIndex": 3,
+      "Explanation": "Determine the legality of the proposed exchange of stock for assistance with permitting. If this arrangement does not violate the laws of your country, the country where you are hoping to start work, corporate regulations, or industry regulations, the cost of the exchange may well offset the opportunity cost of a yearlong permitting delay. Once the legality has been established, a plan forward can be developed. [PMI Code of Ethics and Professional Conduct] [Prof. Responsibility ]"
+    },
+    {
+      "Text": "Sally, a project manager who is a PMP, discovered an error in the estimation of a project. A certain cost was double calculated; as a result, the budget, which is already approved, was now in excess by $25,000. She knows that publicizing this information may cause her to get a poor performance appraisal, since her company is meticulous about such matters. What should she do?",
+      "Options": [
+        "She does not need to do anything since this will have a positive impact on the project's spend and margins.",
+        "Since the excess funds won't be required, she can now use the funding to make additional investments for the project.",
+        "She should bring this to the notice of the appropriate stakeholders and have the necessary steps taken to decrease the budget.",
+        "She does not need to do anything since the budget is already approved. This situation is okay as long as the extra funds are not spent."
+      ],
+      "CorrectIndex": 2,
+      "Explanation": "She needs to notify management and the appropriate stakeholders of this discrepancy so that corrective action can be taken. She needs to do this even at the cost of receiving a poor performance appraisal. [PMI Code of Ethics and Professional Conduct] [Prof. Responsibility ]"
+    },
+    {
+      "Text": "Conformance to requirements and fitness for use are key concepts in quality management. Which of the following is another name for customer needs?",
+      "Options": [
+        "Scope creep",
+        "Process mapping",
+        "Voice of the Customer",
+        "Prompt list"
+      ],
+      "CorrectIndex": 2,
+      "Explanation": "In quality management, customer needs and requirements are also known as voice of the customer (VOC). [PMBOK 6th edition, Page 145] [Project Quality Management ]"
+    },
+    {
+      "Text": "At the beginning of the project, a project manager realized that the technical expertise of the team was limited, a risk to the project. Midway through the project, the project manager decided this was no longer a risk and considered it outdated. As part of which process would he do the risk reassessment?",
+      "Options": [
+        "Perform Qualitative Risk Analysis",
+        "Perform Quantitative Risk Analysis",
+        "Identify Risks",
+        "Monitor Risks"
+      ],
+      "CorrectIndex": 3,
+      "Explanation": "Risk reassessment is performed as part of the Monitor Risks process. Such project risk reassessments should be regularly scheduled and may result in the closure of outdated risks. [PMBOK 6th edition, Page 453]"
+    },
+    {
+      "Text": "You were just hired by a waste management company to develop a solid waste management program in an underdeveloped country. The project will be on a build-operate-transfer basis and will have a two-year duration. At the close of the project, local authorities will run the program. The World Bank sponsors the project, and a large consortium has received the award. Your company is subcontracted to do this project along with two more contractor companies. After the project scope was finalized, you developed a cost estimate of US$5.5 million. The sponsor reviews your detailed costing sheets and is concerned about the total cost figure. He tells you that the maximum allowable budget he can allocate for this project is US$5 million. What should you do?",
+      "Options": [
+        "Ask for a reduction in scope.",
+        "Evaluate ways that can result in cost savings and re-estimate the project.",
+        "Advise the sponsor that the project cannot be completed within the available budget.",
+        "Begin the project with the intent of requesting a budget increase at a later point in time."
+      ],
+      "CorrectIndex": 1,
+      "Explanation": "You should evaluate approaches that can result in cost savings and re-estimate the project. Requesting a change in budget or scope without fully analyzing the options or simply moving ahead with plans to request additional funds in the future are violations of the PMI Code of Ethics. This code requires project managers to provide accurate, timely, and truthful project information at all times. [PMI Code of Ethics and Professional Conduct] [Prof. Responsibility ]"
+    },
+    {
+      "Text": "A certain project was in the Collect Requirements phase. The product’s eventual users could not define their requirements. In this scenario, which of the following tools could have helped determine the requirements?",
+      "Options": [
+        "Interviews",
+        "Prototypes",
+        "Surveys",
+        "Questionnaires"
+      ],
+      "CorrectIndex": 1,
+      "Explanation": "Prototypes are working models of the expected product before actually building it. The tangible nature of prototypes allows users to experiment with a model of their final product early in the project life cycle and to generate clear feedback. Interviews, questionnaires and surveys were unlikely to help in this case since the users were struggling to define their requirements. [PMBOK 6th edition, Page 147]"
+    },
+    {
+      "Text": "All team members have not yet been hired for a project. However, the project manager went ahead with estimating activity durations, budgeting, and other activities. What could likely happen to the activity durations?",
+      "Options": [
+        "The activity durations are likely to decrease.",
+        "The activity durations are likely to change.",
+        "The activity durations will remain the same.",
+        "The activity durations are likely to increase."
+      ],
+      "CorrectIndex": 1,
+      "Explanation": "Project team assignments are an input to the Estimate Activity Durations process. Estimating activity durations without this input is risky. When estimating of activity durations is done when all team members have not been acquired, it is possible that the competency levels of the newer team members will be different from those planned. Therefore, it can only be said that the activity durations will likely change. Whether they will remain the same, increase, or decrease, will depend on the competency levels of the new team members. [PMBOK 6th edition, Page 198] [Project Resource Management ]"
+    },
+    {
+      "Text": "The senior analyst on a project came up with Activity Duration Estimates as follows: Activity A: 10 days + a lag of two days; Activity B: 1 week + a lead of three days. The project manager who reviewed these estimates raised some objections to them. What would they most likely be?",
+      "Options": [
+        "The analyst should have included percent variance information while mentioning the Activity Duration Estimate. This would indicate a range of possible results.",
+        "Activity Duration Estimates should not include any lag or lead information.",
+        "It is advisable not to mix up units such as days and weeks while coming up with Activity Duration Estimates.",
+        "The Activity Duration Estimate should have also mentioned the predecessor or successor activity to which the lag or lead is attached."
+      ],
+      "CorrectIndex": 1,
+      "Explanation": "Activity duration estimates are quantitative assessments of the likely work periods to complete an activity. They do not contain any lag or lead information. Lead and lags are determined during the Develop Schedule process when schedule network analysis is performed. [PMBOK 6th edition, Page 209] [Project Schedule Management ]"
+    },
+    {
+      "Text": "The sponsor of a project created a document that included the business need and the cost-benefit analysis. What would this document be termed as?",
+      "Options": [
+        "The project statement of work",
+        "The business case",
+        "The project management plan",
+        "The contract"
+      ],
+      "CorrectIndex": 1,
+      "Explanation": "The business case usually provides information from a business standpoint so that any investment in the project can be justified. Typically it would contain both the business need as well as the cost benefit analysis. The business case is an input to the Develop Project Charter process. [PMBOK 6th edition, Page 77] [Project Integration Management ]"
+    },
+    {
+      "Text": "Mark is managing a telecom network deployment project. The buyer of the telecom network is an external entity. Recently, the customer requested that all future project updates be posted to their information system automatically. In order to implement this, the project team needs to customize their project management information system so it can be integrated with the customer’s information system. This is a new customer requirement that was not a part of the original project’s scope. What should the project manager do?",
+      "Options": [
+        "Request that the customer terminate the current contract and award a new contract.",
+        "Ask the project team to customize the project management information system.",
+        "Ignore the request; this is outside the project’s scope.",
+        "Initiate the formal change control process."
+      ],
+      "CorrectIndex": 3,
+      "Explanation": "Change requests do come. They are never ignored; they are managed through the integrated change control process. This does not require terminating the contract. Implementing the new requirement without following the change control process is not advisable. [PMBOK 6th edition, Page 113] [Project Stakeholder Management ]"
+    },
+    {
+      "Text": "Variance analysis refers to cost performance measurements used to determine the magnitude of variation in comparison to the original cost baseline. What is the trend on the percentage range of acceptable variances as the project progresses?",
+      "Options": [
+        "The percentage range of acceptable variances will tend to decrease as the project progresses.",
+        "The percentage range of acceptable variances will tend to increase as the project progresses.",
+        "The percentage range of acceptable variances will tend to decrease first and then increase as the project progresses beyond 50 percent completion.",
+        "The percentage range of acceptable variances remain the same as the project progresses."
+      ],
+      "CorrectIndex": 0,
+      "Explanation": "At the start of the project, larger percentage variances are acceptable. However, as more work is accomplished, the percentage range of acceptable variances will tend to decrease. [PMBOK 6th edition, Page 262] [Project Cost Management ]"
+    },
+    {
+      "Text": "Many organizations consider contract administration to be an administrative function separate from the project organization. Who carries out the function of contract administration in such organizations?",
+      "Options": [
+        "The Project Manager",
+        "The Procurement Advisor",
+        "The Procurement Administrator",
+        "The Contract Advisor"
+      ],
+      "CorrectIndex": 2,
+      "Explanation": "In many organizations, a procurement administrator is responsible for ensuring that the procurement relationship is properly managed. The procurement administrator may be on the project team but typically reports to a supervisor from a different department. [PMBOK 6th edition, Page 494] [Project Procurement Management ]"
+    },
+    {
+      "Text": "An experienced project manager was assigned a project of small scope. Which of the following could be true of the project?",
+      "Options": [
+        "Defining Activities, sequencing activities, estimating activity durations, and developing the schedule could be viewed as a single process.",
+        "Estimating activity durations may be skipped for the project.",
+        "Developing and Controlling the schedule could be viewed as a single process.",
+        "Defining Activities, estimating activity durations, developing the schedule, and controlling the schedule could be viewed as a single process."
+      ],
+      "CorrectIndex": 0,
+      "Explanation": "On projects with small scope, defining activities, sequencing activities, estimating activity durations, and developing the schedule are tightly linked and are often viewed as a single process. The other choices are incorrect. [PMBOK 6th edition, Page 175]"
+    },
+    {
+      "Text": "A project was randomly selected for a quality audit, and the external auditor found various issues and nonconformance. The project manager lodged a complaint with the quality department that this was improper procedure, and he should have received notice since an external auditor was involved. What is your view?",
+      "Options": [
+        "The project manager is correct. Quality audits need to be scheduled when an external auditor is involved so that the project manager has time to prepare for them.",
+        "The project manager is correct. The project team must perform all quality audits.",
+        "The project manager has no case. Quality audits may be random and performed by internal or external auditors.",
+        "The project manager has no case. Quality audits are always carried out by external auditors."
+      ],
+      "CorrectIndex": 2,
+      "Explanation": "The project manager has no case. Quality audits may be scheduled or random and may be conducted by internal or external auditors. It is the responsibility of the project manager and the project management to ensure that the project documentation is kept up to date and available for any quality audit. [PMBOK 6th edition, Page 294] [Project Quality Management ]"
+    },
+    {
+      "Text": "You are reviewing the response to an RFP issued by your company for a project that will last a year and exceed US$5 million. Three vendors have been shortlisted. The first, Nosteltec, Inc., is a relatively new company in this industry. It has assembled a team of industry experts with vast industry experience and qualifications. The second company, Xen Contractor, has been in business for 20 years. You and your company have a long and positive history working with this vendor. The third company is SonoNet LLC. It has been in business for 10 years and has a reputation for extensive expertise and superior delivery. They are also well-known for being one of the more expensive providers in the market. You have many relationships with the Xen Contractor staff, which you established during prior procurement contracts with this company. As a result, a project manager from Xen Contractor, with whom you are friendly both personally and professionally, calls you for clarification on a point",
+      "Options": [
+        "Clarify via email",
+        "Clarify via phone call",
+        "Advise the vendor that the RFP is self-explanatory",
+        "Send the clarification to all three vendors"
+      ],
+      "CorrectIndex": 3,
+      "Explanation": "Send the clarification to all three vendors. PMI's Code of Ethics and Professional Conduct mandates that project managers provide fair and equal access to information and apply the rules of the organization without favoritism. [PMI Code of Ethics and Professional Conduct] [Prof. Responsibility ]"
+    },
+    {
+      "Text": "During the procurement process, a contractual relationship is established between a buyer and a seller. During the contract lifecycle, what is the correct sequence in which the following terminology is applied to a seller: Vendor, selected source, and bidder?",
+      "Options": [
+        "The seller is viewed first as a selected source, then as a bidder and then as a vendor.",
+        "The seller is viewed first as a vendor, then as a bidder and then as a selected source.",
+        "The seller is viewed first as a bidder, then as a selected source and then as a vendor.",
+        "The seller is viewed first as a bidder, then as a vendor, then as a selected source."
+      ],
+      "CorrectIndex": 2,
+      "Explanation": "During the contract life cycle, the seller can be viewed first as a bidder, then as a selected source, and then as the contracted supplier or vendor. [PMBOK 6th edition, Page 461] [Project Procurement Management ]"
+    },
+    {
+      "Text": "A project manager is analyzing the relationship between the consumption of project funds and the work being accomplished for such expenditures. In which project management process would this be done?",
+      "Options": [
+        "Determine Budget",
+        "Estimate Costs",
+        "Control Costs",
+        "Manage Costs"
+      ],
+      "CorrectIndex": 2,
+      "Explanation": "Control Costs is the process of monitoring the status of a project to update the project budget and manage changes to the cost baseline. Much of the effort of cost control involves analyzing the relationship between the consumption of project funds and the work being accomplished for such expenditures. [PMBOK 6th edition, Page 257]"
+    },
+    {
+      "Text": "One of the stakeholders of a project initiated a change request, which was then documented in the change control system. Who would typically be responsible for approving or rejecting the change request?",
+      "Options": [
+        "An authority within the project management team or external organization",
+        "The sponsor",
+        "The stakeholder who raised the change request",
+        "The project manager"
+      ],
+      "CorrectIndex": 0,
+      "Explanation": "Typically, some authority within the project management team or an external organization would approve or reject the change request. However, on many projects the project manager is given authority to approve certain types of change requests. [PMBOK 6th edition, Page 115] [Project Integration Management ]"
+    },
+    {
+      "Text": "A critical project rollout was delayed because one of the stakeholders did not receive necessary communication on time. On further analysis, the project manager discovered that the communication was sent to the wrong teams. This could have happened because:",
+      "Options": [
+        "Communication broke down between the project team and the stakeholder.",
+        "The project manager failed to manage stakeholder expectations.",
+        "The stakeholder communications requirements were not properly analyzed during the Plan Communications Management process.",
+        "The stakeholder did not proactively ask for updates."
+      ],
+      "CorrectIndex": 2,
+      "Explanation": "It is likely that stakeholder communications requirements were not properly analyzed during the Plan Communications Management process and the Project Communications Management Plan was not accurate. [PMBOK 6th edition, Page 377] [Project Stakeholder Management ]"
+    },
+    {
+      "Text": "While sequencing activities for a project, the project management team applied certain discretionary dependencies. This was based on their knowledge of best practices within the project application area. What is the potential risk involved in using such dependencies?",
+      "Options": [
+        "They can create fixed float values and create external dependencies.",
+        "They can create arbitrary float values and limit later scheduling options.",
+        "They can create arbitrary float values and create external dependencies.",
+        "They can create arbitrary float values and create mandatory dependencies."
+      ],
+      "CorrectIndex": 1,
+      "Explanation": "Discretionary dependencies are established based on the knowledge of best practices within a specific application area. This is done to achieve a specific sequence even though there are other options. The risk is that they may cause arbitrary float values and later limit scheduling options because of the specific sequencing chosen. [PMBOK 6th edition, Page 191] [Project Schedule Management ]"
+    },
+    {
+      "Text": "Activity attributes extend the description of the activity by identifying various components associated with the activity. Typically, how many attributes are associated with each activity?",
+      "Options": [
+        "They should be between five and ten.",
+        "The number of attributes varies by application area.",
+        "They should be fewer than five.",
+        "The number of attributes depends on the activity duration."
+      ],
+      "CorrectIndex": 1,
+      "Explanation": "Activity attributes can vary by application area. Components for each activity change over time. Initially they may include activity ID, WBS ID, and activity name. Later, they may include activity codes, activity description, predecessor activities, successor activities, logical relationships, leads, lags, resource requirements, imposed dates, constraints, and assumptions. [PMBOK 6th edition, Page 186] [Project Schedule Management ]"
+    },
+    {
+      "Text": "Due to a tight project schedule, a project manager did not document lessons learned throughout the project cycle. However, at the end of the project, he finally documented the lessons learned. Your comment on this is:",
+      "Options": [
+        "This is not OK. Lessons learned must be documented throughout the project as well as at the end of the project.",
+        "This is OK. Lessons learned should be documented at the end of the project.",
+        "This is not OK. Lessons learned need to be documented throughout the project and must not be done at the project’s end.",
+        "This is correct. Lessons learned are intended to be documented only at the project’s end."
+      ],
+      "CorrectIndex": 0,
+      "Explanation": "Lessons learned should be documented throughout the project cycle. The Manage Project Knowledge process is an executing process that stresses on this requirement. [PMBOK 6th edition, Page 98] [Project Integration Management ]"
+    },
+    {
+      "Text": "A project manager is preparing the WBS for a software project. The WBS includes all the product and project work but excludes the project management work. From the following choices, choose a statement that correctly describes this situation.",
+      "Options": [
+        "This is incorrect. Include product work and project management as part of the WBS but exclude project work.",
+        "This is incorrect. Project work and project management are part of the WBS, but product work is not.",
+        "This is incorrect. Include product work, project work, and project management work.",
+        "This is correct. Include product and project work as part of the WBS but exclude project management work."
+      ],
+      "CorrectIndex": 2,
+      "Explanation": "The WBS is a deliverable-oriented decomposition of all the work to be done by the project team to achieve project objectives. It organizes and defines the total scope of the project. Thus, it includes product work, project work and the project management work required to complete the project. [PMBOK 6th edition, Page 159] [Project Scope Management ]"
+    },
+    {
+      "Text": "As part of earned value management (EVM), a project manager is calculating the to-complete performance index (TCPI) based on EAC. The data he has is as follows: The budget at completion for the project is $100,000. The earned value for the project is $25,000. The actual costs to date are $40,000, and the estimate at completion is $115,000. What is the TCPI that he will get?",
+      "Options": [
+        "1.1",
+        "0.9",
+        "1",
+        "0"
+      ],
+      "CorrectIndex": 2,
+      "Explanation": "TCPI based on EAC = (BAC - EV)/(EAC - AC) = (100000 25000)/(115000 - 40000) = 75000/75000 = 1. [PMBOK 6th edition, Page 266] [Project Cost Management ]"
+    },
+    {
+      "Text": "How can changes be made to a project management plan once the project manager baselines it?",
+      "Options": [
+        "By generating a change request and having it approved through the Perform Integrated Change Control process.",
+        "This is typically done by using a version control system. The project manager creates a new version with the changes and baselines it as the new baseline.",
+        "This is done by maintaining a revision history or log. The project manager documents the changes in detail and then baselines it.",
+        "A project management plan cannot be changed once it is baselined. An addendum has to be created to incorporate the changes."
+      ],
+      "CorrectIndex": 0,
+      "Explanation": "Once the project management plan has been baselined, it may be changed only when a change request is generated and approved through the Perform Integrated Change Control process. To keep track of changes, a version control system or a revision log will also be maintained. However, the changed version can be baselined only after approval. [PMBOK 6th edition, Page 113] [Project Integration Management ]"
+    },
+    {
+      "Text": "The morale of the team members of a project is very low. The team members feel they were not given opportunities to participate in the organizational team development activities due to over-allocation to project tasks, and so, they missed opportunities to develop. Which of the following is the most likely cause of this situation?",
+      "Options": [
+        "Use of zero-sum rewards in the project",
+        "A poorly defined resource calendar",
+        "Too many senior team members",
+        "Poor interpersonal skills in the team"
+      ],
+      "CorrectIndex": 1,
+      "Explanation": "Resource calendars identify times when the project team members can participate in team development activities. If the team members are unable to find time for such activities because they are over allocated, it is likely that the calendar has been poorly planned. [PMBOK 6th edition, Page 323] [Project Resource Management ]"
+    },
+    {
+      "Text": "Given multiple alternatives, the group decision method that allows the largest block in a group to decide (even if more than 50 percent of the members of the group do not support the decision) is:",
+      "Options": [
+        "Dictatorship",
+        "Plurality",
+        "Unanimity",
+        "Majority"
+      ],
+      "CorrectIndex": 1,
+      "Explanation": "This group decision-making technique is called Plurality. Even if a majority (where more than 50% of the members support the decision) is not achieved, the largest block in the group makes the decision. [PMBOK 6th edition, Page 144] [Project Scope Management ]"
+    },
+    {
+      "Text": "In a multi-phase project, the procurement team decided to close the procurements applicable to a particular phase of the project. What happens to unresolved claims?",
+      "Options": [
+        "Unresolved claims are usually resolved at the end of all phases of the project.",
+        "Unresolved claims are also closed when the procurements for that phase are closed.",
+        "Unresolved claims remain open for a period of one year from closure of procurements.",
+        "Unresolved claims may still be subject to litigation after closure."
+      ],
+      "CorrectIndex": 3,
+      "Explanation": "Even after the procurements for a particular phase are closed, unresolved claims are still subject to litigation. [PMBOK 6th edition, Page 498] [Project Procurement Management ]"
+    },
+    {
+      "Text": "During the Control Scope process, analysis of the scope performance resulted in a change request to the scope baseline. This change request will be processed for review and disposition in the:",
+      "Options": [
+        "Control Quality",
+        "Perform Integrated Change Control",
+        "Monitor and Control Project Work",
+        "Validate Scope"
+      ],
+      "CorrectIndex": 1,
+      "Explanation": "Analysis of Scope performance is done as part of the Control Scope phase. Determining the cause and degree of variance relative to the scope baseline is an important aspect of this activity (called Variance Analysis). Change requests that result from this activity are processed in the Perform Integrated Change Control phase. [PMBOK 6th edition, Page 113] [Project Integration Management ]"
+    },
+    {
+      "Text": "The quality cost of a project rose significantly during the course of the project. A post-mortem analysis of the increased cost revealed that this was due to poorly defined acceptance criteria. During which phase should the acceptance criteria have been properly captured?",
+      "Options": [
+        "Develop Project Charter process",
+        "Define Scope process",
+        "Manage Stakeholder Engagement process",
+        "Plan Quality Management process"
+      ],
+      "CorrectIndex": 1,
+      "Explanation": "Acceptance criteria are documented in the project scope statement, developed during the Define Scope process. Poorly defined acceptance criteria would then propagate to the Plan Quality Management process used for planning quality. [PMBOK 6th edition, Page 154]."
+    }
+  ]
+}
